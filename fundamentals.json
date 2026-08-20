@@ -1,0 +1,3434 @@
+{
+  "version": 18,
+  "updatedAt": "2026-08-20T21:18:58Z",
+  "source": "kap-mali-tablo-full",
+  "tickers": {
+    "A1CAP": {
+      "paidCapital": 675000000,
+      "asOfDate": "2026-06-30",
+      "equity": 9129639090,
+      "profitableQuarters": 2,
+      "annualNetIncome": 1700718905
+    },
+    "ACSEL": {
+      "paidCapital": 10721700,
+      "asOfDate": "2026-06-30",
+      "equity": 675298452,
+      "profitableQuarters": 2,
+      "annualNetIncome": -6295104
+    },
+    "ADEL": {
+      "paidCapital": 259875000,
+      "asOfDate": "2026-06-30",
+      "equity": 1373904000,
+      "profitableQuarters": 1,
+      "annualNetIncome": -426336521
+    },
+    "ADESE": {
+      "paidCapital": 5040000000,
+      "asOfDate": "2026-06-30",
+      "equity": 14763984000,
+      "profitableQuarters": 2,
+      "annualNetIncome": 87110149
+    },
+    "ADGYO": {
+      "paidCapital": 545854435,
+      "asOfDate": "2026-06-30",
+      "equity": 16917916892,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1151548424
+    },
+    "AEFES": {
+      "paidCapital": 5921052000,
+      "equity": 125630347000,
+      "annualNetIncome": 10036312691,
+      "profitableQuarters": 3,
+      "asOfDate": "2026-06-30"
+    },
+    "AFYON": {
+      "paidCapital": 400000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8069771811,
+      "profitableQuarters": 2,
+      "annualNetIncome": 80408482
+    },
+    "AGESA": {
+      "paidCapital": 180000000,
+      "asOfDate": "2026-06-30"
+    },
+    "AGHOL": {
+      "paidCapital": 2435345000,
+      "asOfDate": "2026-06-30",
+      "equity": 132664415000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 4772301726
+    },
+    "AGYO": {
+      "paidCapital": 263340000,
+      "asOfDate": "2026-06-30",
+      "equity": 6681714612,
+      "profitableQuarters": 0,
+      "annualNetIncome": -216464102
+    },
+    "AHGAZ": {
+      "paidCapital": 2600000000,
+      "asOfDate": "2026-06-30",
+      "equity": 59943874690,
+      "profitableQuarters": 4,
+      "annualNetIncome": 3519562442
+    },
+    "AKBNK": {
+      "paidCapital": 5200000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 324746000000,
+      "annualNetIncome": 66773181000
+    },
+    "AKCNS": {
+      "paidCapital": 191447000,
+      "asOfDate": "2026-06-30",
+      "equity": 28533760000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 666979018
+    },
+    "AKENR": {
+      "paidCapital": 729164000,
+      "asOfDate": "2026-06-30",
+      "equity": 15898230000,
+      "profitableQuarters": 2,
+      "annualNetIncome": -4944577572
+    },
+    "AKFGY": {
+      "paidCapital": 3900000000,
+      "asOfDate": "2026-06-30",
+      "equity": 38297388598,
+      "profitableQuarters": 4,
+      "annualNetIncome": 583056841
+    },
+    "AKFYE": {
+      "paidCapital": 1196962000,
+      "asOfDate": "2026-06-30",
+      "equity": 69123548000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2716588521
+    },
+    "AKGRT": {
+      "paidCapital": 1612000000,
+      "asOfDate": "2026-06-30"
+    },
+    "AKMGY": {
+      "paidCapital": 37264000,
+      "asOfDate": "2026-06-30",
+      "equity": 11131049000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 565484580
+    },
+    "AKSA": {
+      "paidCapital": 3885000000,
+      "asOfDate": "2026-06-30",
+      "equity": 36635505000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 6499164433
+    },
+    "AKSEN": {
+      "paidCapital": 1226338236,
+      "asOfDate": "2026-06-30",
+      "equity": 68551509176,
+      "profitableQuarters": 4,
+      "annualNetIncome": 3060485486
+    },
+    "AKSGY": {
+      "paidCapital": 2415000000,
+      "asOfDate": "2026-06-30",
+      "equity": 52493436000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 2196764695
+    },
+    "AKSUE": {
+      "paidCapital": 66000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1042475472,
+      "profitableQuarters": 0,
+      "annualNetIncome": -93044563
+    },
+    "AKYHO": {
+      "paidCapital": 252208000,
+      "asOfDate": "2026-06-30",
+      "equity": 683598543,
+      "profitableQuarters": 0,
+      "annualNetIncome": -102560073
+    },
+    "ALARK": {
+      "paidCapital": 417000000,
+      "asOfDate": "2026-06-30",
+      "equity": 91489859000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 6944179437
+    },
+    "ALBRK": {
+      "paidCapital": 2500000000,
+      "asOfDate": "2026-06-30",
+      "annualNetIncome": 8418611000,
+      "profitableQuarters": 4,
+      "equity": 27889000000
+    },
+    "ALCAR": {
+      "paidCapital": 10800000,
+      "asOfDate": "2026-06-30",
+      "equity": 2034178126,
+      "profitableQuarters": 0,
+      "annualNetIncome": -641367427
+    },
+    "ALCTL": {
+      "paidCapital": 38700772,
+      "asOfDate": "2026-06-30",
+      "equity": 3335333859,
+      "profitableQuarters": 2,
+      "annualNetIncome": -86028441
+    },
+    "ALFAS": {
+      "paidCapital": 368000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6619995175,
+      "profitableQuarters": 3,
+      "annualNetIncome": 65624627
+    },
+    "ALGYO": {
+      "paidCapital": 2028600000,
+      "asOfDate": "2026-06-30",
+      "equity": 19071351824,
+      "profitableQuarters": 3,
+      "annualNetIncome": -2426667859
+    },
+    "ALKA": {
+      "paidCapital": 735000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2418835338,
+      "profitableQuarters": 2,
+      "annualNetIncome": -137058209
+    },
+    "ALKIM": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4866784155,
+      "profitableQuarters": 1,
+      "annualNetIncome": -517876182
+    },
+    "ANELE": {
+      "paidCapital": 265000000,
+      "asOfDate": "2026-06-30",
+      "equity": 704337464,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2989378672
+    },
+    "ANGEN": {
+      "paidCapital": 220000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1805614793,
+      "profitableQuarters": 0,
+      "annualNetIncome": -313962534
+    },
+    "ANHYT": {
+      "paidCapital": 430000000,
+      "asOfDate": "2026-06-30"
+    },
+    "ANSGR": {
+      "paidCapital": 2000000000,
+      "asOfDate": "2026-06-30"
+    },
+    "ARASE": {
+      "paidCapital": 250000000,
+      "asOfDate": "2026-06-30",
+      "equity": 24583420966,
+      "profitableQuarters": 4,
+      "annualNetIncome": 2928894962
+    },
+    "ARCLK": {
+      "paidCapital": 675728000,
+      "asOfDate": "2026-06-30",
+      "equity": 77744199000,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2963144445
+    },
+    "ARDYZ": {
+      "paidCapital": 322274086,
+      "asOfDate": "2026-06-30",
+      "equity": 6867187327,
+      "profitableQuarters": 4,
+      "annualNetIncome": 826668644
+    },
+    "ARENA": {
+      "paidCapital": 100000000,
+      "asOfDate": "2026-03-31",
+      "equity": 1869476072,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1161895347
+    },
+    "ARSAN": {
+      "paidCapital": 1762000000,
+      "asOfDate": "2026-06-30",
+      "equity": 13377299683,
+      "profitableQuarters": 2,
+      "annualNetIncome": 319909843
+    },
+    "ARZUM": {
+      "paidCapital": 600000000,
+      "asOfDate": "2026-06-30",
+      "equity": 155342101,
+      "profitableQuarters": 0,
+      "annualNetIncome": -967369659
+    },
+    "ASELS": {
+      "paidCapital": 4560000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 306744183000,
+      "annualNetIncome": 23113056000
+    },
+    "ASGYO": {
+      "paidCapital": 659000000,
+      "asOfDate": "2026-06-30",
+      "equity": 28802635842,
+      "profitableQuarters": 2,
+      "annualNetIncome": 1893461427
+    },
+    "ASTOR": {
+      "paidCapital": 998000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 43796220222,
+      "annualNetIncome": 11201140606
+    },
+    "ASUZU": {
+      "paidCapital": 252000000,
+      "asOfDate": "2026-06-30",
+      "equity": 15470878030,
+      "profitableQuarters": 1,
+      "annualNetIncome": -786456710
+    },
+    "ATAGY": {
+      "paidCapital": 47500000,
+      "asOfDate": "2026-06-30",
+      "equity": 842560138,
+      "profitableQuarters": 0,
+      "annualNetIncome": -30205437
+    },
+    "ATAKP": {
+      "paidCapital": 138768000,
+      "asOfDate": "2026-06-30",
+      "equity": 6982678205,
+      "profitableQuarters": 1,
+      "annualNetIncome": -477681224
+    },
+    "ATATP": {
+      "paidCapital": 93750000,
+      "asOfDate": "2026-06-30",
+      "equity": 6416509467,
+      "profitableQuarters": 4,
+      "annualNetIncome": 2334283964
+    },
+    "ATEKS": {
+      "paidCapital": 25200000,
+      "asOfDate": "2026-06-30",
+      "equity": 8726747169,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2293882766
+    },
+    "ATLAS": {
+      "paidCapital": 60000000,
+      "asOfDate": "2026-06-30",
+      "equity": 546205574,
+      "profitableQuarters": 2,
+      "annualNetIncome": -62880276
+    },
+    "ATSYH": {
+      "paidCapital": 8000000,
+      "asOfDate": "2026-06-30",
+      "equity": 132090452,
+      "profitableQuarters": 1,
+      "annualNetIncome": -6441857
+    },
+    "AVGYO": {
+      "paidCapital": 111600000,
+      "asOfDate": "2026-03-31",
+      "equity": 2379193448,
+      "profitableQuarters": 3,
+      "annualNetIncome": 189538726
+    },
+    "AVHOL": {
+      "paidCapital": 37250000,
+      "asOfDate": "2026-06-30",
+      "equity": 1194792434,
+      "profitableQuarters": 1,
+      "annualNetIncome": -940687967
+    },
+    "AVOD": {
+      "paidCapital": 270000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1262437391,
+      "profitableQuarters": 1,
+      "annualNetIncome": -209278422
+    },
+    "AVTUR": {
+      "paidCapital": 45000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1325002820,
+      "profitableQuarters": 3,
+      "annualNetIncome": 4163454
+    },
+    "AYCES": {
+      "paidCapital": 25000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5540614773,
+      "profitableQuarters": 1,
+      "annualNetIncome": -190021891
+    },
+    "AYDEM": {
+      "paidCapital": 705000000,
+      "asOfDate": "2026-06-30",
+      "equity": 49222592068,
+      "profitableQuarters": 3,
+      "annualNetIncome": 1404576056
+    },
+    "AYEN": {
+      "paidCapital": 277500000,
+      "asOfDate": "2026-06-30",
+      "equity": 19948343277,
+      "profitableQuarters": 3,
+      "annualNetIncome": 178460875
+    },
+    "AYES": {
+      "paidCapital": 150000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4190938255,
+      "profitableQuarters": 3,
+      "annualNetIncome": 757108282
+    },
+    "AYGAZ": {
+      "paidCapital": 219801000,
+      "asOfDate": "2026-06-30",
+      "equity": 84080658000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 6003319246
+    },
+    "AZTEK": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1862836462,
+      "profitableQuarters": 0,
+      "annualNetIncome": -852886601
+    },
+    "BAGFS": {
+      "paidCapital": 135000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8941293776,
+      "profitableQuarters": 2,
+      "annualNetIncome": 191989353
+    },
+    "BAKAB": {
+      "paidCapital": 72000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3281360371,
+      "profitableQuarters": 1,
+      "annualNetIncome": -95249734
+    },
+    "BALAT": {
+      "paidCapital": 13878487,
+      "asOfDate": "2025-12-31",
+      "equity": 52360538,
+      "profitableQuarters": 1,
+      "annualNetIncome": -84626131
+    },
+    "BANVT": {
+      "paidCapital": 100023579,
+      "asOfDate": "2026-06-30",
+      "equity": 12589313556,
+      "profitableQuarters": 1,
+      "annualNetIncome": -3798228623
+    },
+    "BARMA": {
+      "paidCapital": 262500000,
+      "asOfDate": "2026-06-30",
+      "equity": 4995085103,
+      "profitableQuarters": 1,
+      "annualNetIncome": -269828786
+    },
+    "BASCM": {
+      "paidCapital": 660000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8136399357,
+      "profitableQuarters": 2,
+      "annualNetIncome": 152481048
+    },
+    "BASGZ": {
+      "paidCapital": 700000000,
+      "asOfDate": "2026-06-30",
+      "equity": 35651355348,
+      "profitableQuarters": 3,
+      "annualNetIncome": 3977657918
+    },
+    "BAYRK": {
+      "paidCapital": 249999992,
+      "asOfDate": "2026-06-30",
+      "equity": 236964210,
+      "profitableQuarters": 1,
+      "annualNetIncome": -251444171
+    },
+    "BERA": {
+      "paidCapital": 683200000,
+      "asOfDate": "2026-06-30",
+      "equity": 34760168849,
+      "profitableQuarters": 2,
+      "annualNetIncome": -517368767
+    },
+    "BEYAZ": {
+      "paidCapital": 99687500,
+      "asOfDate": "2026-06-30",
+      "equity": 1339370776,
+      "profitableQuarters": 2,
+      "annualNetIncome": -98286344
+    },
+    "BFREN": {
+      "paidCapital": 122522806,
+      "asOfDate": "2026-06-30",
+      "equity": 805303229,
+      "profitableQuarters": 4,
+      "annualNetIncome": 233278651
+    },
+    "BIENY": {
+      "paidCapital": 361000000,
+      "asOfDate": "2026-06-30",
+      "equity": 14340264321,
+      "profitableQuarters": 1,
+      "annualNetIncome": -849528068
+    },
+    "BIGCH": {
+      "paidCapital": 535000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1404656661,
+      "profitableQuarters": 2,
+      "annualNetIncome": 23636261
+    },
+    "BIMAS": {
+      "paidCapital": 1200000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 201353398000,
+      "annualNetIncome": 29529244528
+    },
+    "BIOEN": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3271504896,
+      "profitableQuarters": 1,
+      "annualNetIncome": -912193786
+    },
+    "BIZIM": {
+      "paidCapital": 80476074,
+      "asOfDate": "2026-06-30",
+      "equity": 130759168,
+      "profitableQuarters": 1,
+      "annualNetIncome": -460893297
+    },
+    "BLCYT": {
+      "paidCapital": 100000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4870464536,
+      "profitableQuarters": 2,
+      "annualNetIncome": 112593651
+    },
+    "BMSCH": {
+      "paidCapital": 100000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1345034348,
+      "profitableQuarters": 2,
+      "annualNetIncome": -14629036
+    },
+    "BMSTL": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1607166243,
+      "profitableQuarters": 2,
+      "annualNetIncome": -54347870
+    },
+    "BNTAS": {
+      "paidCapital": 241875000,
+      "asOfDate": "2026-06-30",
+      "equity": 1810392032,
+      "profitableQuarters": 4,
+      "annualNetIncome": 282598869
+    },
+    "BOBET": {
+      "paidCapital": 380000000,
+      "asOfDate": "2026-06-30",
+      "equity": 7179856067,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1092714158
+    },
+    "BOSSA": {
+      "paidCapital": 1300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 12492186434,
+      "profitableQuarters": 2,
+      "annualNetIncome": 43065456
+    },
+    "BRISA": {
+      "paidCapital": 305117000,
+      "asOfDate": "2026-06-30",
+      "equity": 28107224000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 453173085
+    },
+    "BRKO": {
+      "paidCapital": 140000000,
+      "asOfDate": "2026-03-31",
+      "equity": 2347697482,
+      "profitableQuarters": 2,
+      "annualNetIncome": 158455945
+    },
+    "BRKSN": {
+      "paidCapital": 93600000,
+      "asOfDate": "2026-06-30",
+      "equity": 919109184,
+      "profitableQuarters": 3,
+      "annualNetIncome": 15846446
+    },
+    "BRLSM": {
+      "paidCapital": 224000000,
+      "asOfDate": "2026-03-31",
+      "equity": 1614800897,
+      "profitableQuarters": 0,
+      "annualNetIncome": -330637269
+    },
+    "BRMEN": {
+      "paidCapital": 89254043,
+      "asOfDate": "2026-06-30",
+      "equity": 12446589,
+      "profitableQuarters": 0,
+      "annualNetIncome": -38220953
+    },
+    "BRSAN": {
+      "paidCapital": 141772000,
+      "asOfDate": "2026-06-30",
+      "equity": 43402505000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2696435552
+    },
+    "BRYAT": {
+      "paidCapital": 28125000,
+      "asOfDate": "2026-06-30",
+      "equity": 32736549073,
+      "profitableQuarters": 4,
+      "annualNetIncome": 1237922388
+    },
+    "BSOKE": {
+      "paidCapital": 1600000000,
+      "asOfDate": "2026-03-31",
+      "equity": 13453377967,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1192819698
+    },
+    "BTCIM": {
+      "paidCapital": 5580000000,
+      "asOfDate": "2026-03-31",
+      "equity": 23667886165,
+      "profitableQuarters": 1,
+      "annualNetIncome": -945433062
+    },
+    "BUCIM": {
+      "paidCapital": 1500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 18771788641,
+      "profitableQuarters": 2,
+      "annualNetIncome": -421980067
+    },
+    "BURCE": {
+      "paidCapital": 84240000,
+      "asOfDate": "2026-03-31",
+      "equity": 1191941245,
+      "profitableQuarters": 0,
+      "annualNetIncome": -120719276
+    },
+    "BURVA": {
+      "paidCapital": 7347672,
+      "asOfDate": "2026-06-30",
+      "equity": 93672221,
+      "profitableQuarters": 0,
+      "annualNetIncome": -30957264
+    },
+    "BVSAN": {
+      "paidCapital": 37600000,
+      "asOfDate": "2026-06-30",
+      "equity": 2575757634,
+      "profitableQuarters": 2,
+      "annualNetIncome": -35252848
+    },
+    "BYDNR": {
+      "paidCapital": 84000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1690897725,
+      "profitableQuarters": 1,
+      "annualNetIncome": -29518049
+    },
+    "CANTE": {
+      "paidCapital": 10000000000,
+      "profitableQuarters": 1,
+      "asOfDate": "2026-06-30",
+      "equity": 31726421342,
+      "annualNetIncome": -2432550382
+    },
+    "CASA": {
+      "paidCapital": 4900000,
+      "asOfDate": "2026-03-31",
+      "equity": 181056017,
+      "profitableQuarters": 1,
+      "annualNetIncome": -343373630
+    },
+    "CCOLA": {
+      "paidCapital": 2798079000,
+      "asOfDate": "2026-06-30",
+      "equity": 91575295000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 22007966395
+    },
+    "CELHA": {
+      "paidCapital": 385499653,
+      "asOfDate": "2026-06-30",
+      "equity": 4527439821,
+      "profitableQuarters": 0,
+      "annualNetIncome": -683831072
+    },
+    "CEMAS": {
+      "paidCapital": 791000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3954838854,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1241598132
+    },
+    "CEMTS": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 7349434225,
+      "profitableQuarters": 2,
+      "annualNetIncome": -328971250
+    },
+    "CEOEM": {
+      "paidCapital": 44000000,
+      "asOfDate": "2026-06-30",
+      "equity": 557573385,
+      "profitableQuarters": 3,
+      "annualNetIncome": 4381595
+    },
+    "CIMSA": {
+      "paidCapital": 945591000,
+      "asOfDate": "2026-06-30",
+      "equity": 37399824000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 4340408544
+    },
+    "CLEBI": {
+      "paidCapital": 24300000,
+      "asOfDate": "2026-06-30",
+      "equity": 7010459664,
+      "profitableQuarters": 4,
+      "annualNetIncome": 2389075573
+    },
+    "CMBTN": {
+      "paidCapital": 1770000,
+      "asOfDate": "2026-06-30",
+      "equity": 251206468,
+      "profitableQuarters": 1,
+      "annualNetIncome": -298407498
+    },
+    "CMENT": {
+      "paidCapital": 87112000,
+      "asOfDate": "2026-06-30",
+      "equity": 18453166000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 999792938
+    },
+    "CONSE": {
+      "paidCapital": 771000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2156417344,
+      "profitableQuarters": 3,
+      "annualNetIncome": 78649992
+    },
+    "COSMO": {
+      "paidCapital": 6917538,
+      "asOfDate": "2026-06-30",
+      "equity": 142387483,
+      "profitableQuarters": 1,
+      "annualNetIncome": -40504727
+    },
+    "CRDFA": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-04-16",
+      "equity": 1839661730,
+      "annualNetIncome": 1295135825,
+      "profitableQuarters": 4
+    },
+    "CRFSA": {
+      "paidCapital": 127774000,
+      "asOfDate": "2026-06-30",
+      "equity": 571468000,
+      "profitableQuarters": 0,
+      "annualNetIncome": -7034780200
+    },
+    "CUSAN": {
+      "paidCapital": 71250000,
+      "asOfDate": "2026-06-30",
+      "equity": 768995486,
+      "profitableQuarters": 1,
+      "annualNetIncome": -320421380
+    },
+    "CVKMD": {
+      "paidCapital": 1400000000,
+      "asOfDate": "2026-06-30",
+      "equity": 12594945151,
+      "profitableQuarters": 2,
+      "annualNetIncome": 257736726
+    },
+    "CWENE": {
+      "paidCapital": 1078290009,
+      "asOfDate": "2026-06-30",
+      "equity": 17726875532,
+      "profitableQuarters": 4,
+      "annualNetIncome": 3217725561
+    },
+    "DAGI": {
+      "paidCapital": 400000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1813249659,
+      "profitableQuarters": 1,
+      "annualNetIncome": -89242283
+    },
+    "DAPGM": {
+      "paidCapital": 2650000000,
+      "asOfDate": "2026-06-30",
+      "equity": 17686561426,
+      "profitableQuarters": 4,
+      "annualNetIncome": 831466075
+    },
+    "DARDL": {
+      "paidCapital": 2344397132,
+      "asOfDate": "2026-06-30",
+      "equity": 7174059005,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1611075230
+    },
+    "DENGE": {
+      "paidCapital": 600000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1521596857,
+      "profitableQuarters": 0,
+      "annualNetIncome": -294409504
+    },
+    "DERHL": {
+      "paidCapital": 197281323,
+      "asOfDate": "2026-06-30",
+      "equity": 1992519942,
+      "profitableQuarters": 3,
+      "annualNetIncome": -5673725
+    },
+    "DERIM": {
+      "paidCapital": 54000000,
+      "asOfDate": "2026-06-30",
+      "equity": 779122744,
+      "profitableQuarters": 3,
+      "annualNetIncome": 38689511
+    },
+    "DESA": {
+      "paidCapital": 490000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4744193715,
+      "profitableQuarters": 4,
+      "annualNetIncome": 523723680
+    },
+    "DESPC": {
+      "paidCapital": 23000000,
+      "asOfDate": "2026-06-30",
+      "equity": 411074526,
+      "profitableQuarters": 1,
+      "annualNetIncome": -130341460
+    },
+    "DEVA": {
+      "paidCapital": 200019288,
+      "asOfDate": "2026-06-30",
+      "equity": 31529915342,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1119063327
+    },
+    "DGATE": {
+      "paidCapital": 30000000,
+      "asOfDate": "2026-06-30",
+      "equity": 436749231,
+      "profitableQuarters": 4,
+      "annualNetIncome": 127065162
+    },
+    "DGGYO": {
+      "paidCapital": 332007786,
+      "asOfDate": "2026-06-30",
+      "equity": 16349489680,
+      "profitableQuarters": 3,
+      "annualNetIncome": 25231934
+    },
+    "DGNMO": {
+      "paidCapital": 350000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1654007712,
+      "profitableQuarters": 2,
+      "annualNetIncome": -1456297280
+    },
+    "DIRIT": {
+      "paidCapital": 10650000,
+      "asOfDate": "2026-03-31",
+      "equity": 16511882,
+      "profitableQuarters": 1,
+      "annualNetIncome": -174377463
+    },
+    "DITAS": {
+      "paidCapital": 170000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1340590515,
+      "profitableQuarters": 2,
+      "annualNetIncome": -219879022
+    },
+    "DMRGD": {
+      "paidCapital": 1482400000,
+      "asOfDate": "2026-06-30",
+      "equity": 2113727371,
+      "profitableQuarters": 3,
+      "annualNetIncome": 52661689
+    },
+    "DMSAS": {
+      "paidCapital": 200000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1554068521,
+      "profitableQuarters": 1,
+      "annualNetIncome": -127781847
+    },
+    "DNISI": {
+      "paidCapital": 119728125,
+      "asOfDate": "2026-06-30",
+      "equity": 1604412209,
+      "profitableQuarters": 1,
+      "annualNetIncome": 52337861
+    },
+    "DOAS": {
+      "paidCapital": 220000000,
+      "asOfDate": "2026-06-30",
+      "equity": 74341347000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2452056786
+    },
+    "DOGUB": {
+      "paidCapital": 39000000,
+      "asOfDate": "2026-06-30",
+      "equity": 60275766,
+      "profitableQuarters": 0,
+      "annualNetIncome": -36932189
+    },
+    "DOHOL": {
+      "paidCapital": 2616996000,
+      "asOfDate": "2026-06-30",
+      "equity": 95446263000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 3124313770
+    },
+    "DOKTA": {
+      "paidCapital": 324000000,
+      "asOfDate": "2026-06-30",
+      "equity": 7466805888,
+      "profitableQuarters": 2,
+      "annualNetIncome": -472694153
+    },
+    "DURDO": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1686955089,
+      "profitableQuarters": 2,
+      "annualNetIncome": -152844308
+    },
+    "DYOBY": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8878615011,
+      "profitableQuarters": 2,
+      "annualNetIncome": 190368802
+    },
+    "DZGYO": {
+      "paidCapital": 400000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6646820595,
+      "profitableQuarters": 3,
+      "annualNetIncome": 50043269
+    },
+    "EBEBK": {
+      "paidCapital": 160000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5741213114,
+      "profitableQuarters": 3,
+      "annualNetIncome": 195992543
+    },
+    "ECILC": {
+      "paidCapital": 685260000,
+      "asOfDate": "2026-06-30",
+      "equity": 68813825000,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1944775092
+    },
+    "ECZYT": {
+      "paidCapital": 105000000,
+      "asOfDate": "2026-06-30",
+      "equity": 31453114418,
+      "profitableQuarters": 1,
+      "annualNetIncome": -448039075
+    },
+    "EDATA": {
+      "paidCapital": 402170000,
+      "asOfDate": "2026-06-30",
+      "equity": 943093830,
+      "profitableQuarters": 1,
+      "annualNetIncome": -120456387
+    },
+    "EDIP": {
+      "paidCapital": 65000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8181206086,
+      "profitableQuarters": 3,
+      "annualNetIncome": 329079482
+    },
+    "EGEEN": {
+      "paidCapital": 3150000,
+      "asOfDate": "2026-06-30",
+      "equity": 9126787000,
+      "profitableQuarters": 1,
+      "annualNetIncome": -286997770
+    },
+    "EGEPO": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2161495143,
+      "profitableQuarters": 2,
+      "annualNetIncome": -55902684
+    },
+    "EGGUB": {
+      "paidCapital": 100000000,
+      "asOfDate": "2026-06-30",
+      "equity": 10197551900,
+      "profitableQuarters": 4,
+      "annualNetIncome": 787132877
+    },
+    "EGPRO": {
+      "paidCapital": 545000000,
+      "asOfDate": "2026-06-30",
+      "equity": 10563720851,
+      "profitableQuarters": 4,
+      "annualNetIncome": 1661819714
+    },
+    "EGSER": {
+      "paidCapital": 720000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2126599161,
+      "profitableQuarters": 0,
+      "annualNetIncome": -769835494
+    },
+    "EKGYO": {
+      "paidCapital": 3800000000,
+      "equity": 154331604000,
+      "annualNetIncome": -2303813127,
+      "profitableQuarters": 2,
+      "asOfDate": "2026-06-30"
+    },
+    "EKIZ": {
+      "paidCapital": 9284470,
+      "asOfDate": "2026-06-30",
+      "equity": 382050841,
+      "profitableQuarters": 1,
+      "annualNetIncome": -69263799
+    },
+    "EKSUN": {
+      "paidCapital": 600000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2738817010,
+      "profitableQuarters": 1,
+      "annualNetIncome": -170733948
+    },
+    "ELITE": {
+      "paidCapital": 129600000,
+      "asOfDate": "2026-06-30",
+      "equity": 2695633160,
+      "profitableQuarters": 3,
+      "annualNetIncome": 107060713
+    },
+    "EMKEL": {
+      "paidCapital": 150000000,
+      "asOfDate": "2026-06-30",
+      "equity": 980358988,
+      "profitableQuarters": 0,
+      "annualNetIncome": -247856397
+    },
+    "EMNIS": {
+      "paidCapital": 6200000,
+      "asOfDate": "2026-06-30",
+      "equity": 270475237,
+      "profitableQuarters": 3,
+      "annualNetIncome": 20246397
+    },
+    "ENERY": {
+      "paidCapital": 9000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 65285908662,
+      "profitableQuarters": 4,
+      "annualNetIncome": 5630236062
+    },
+    "ENJSA": {
+      "paidCapital": 1181069000,
+      "asOfDate": "2026-06-30",
+      "equity": 108958462000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 4160685000
+    },
+    "ENKAI": {
+      "paidCapital": 6021689000,
+      "equity": 410763016000,
+      "annualNetIncome": 45489023254,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30"
+    },
+    "ENSRI": {
+      "paidCapital": 546000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1624549564,
+      "profitableQuarters": 2,
+      "annualNetIncome": -84388501
+    },
+    "EPLAS": {
+      "paidCapital": 190615223,
+      "asOfDate": "2026-06-30",
+      "equity": 3944427358,
+      "profitableQuarters": 1,
+      "annualNetIncome": -157348888
+    },
+    "ERBOS": {
+      "paidCapital": 20000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3941915435,
+      "profitableQuarters": 1,
+      "annualNetIncome": -142388153
+    },
+    "ERCB": {
+      "paidCapital": 77770481,
+      "asOfDate": "2026-06-30",
+      "equity": 5357993283,
+      "profitableQuarters": 1,
+      "annualNetIncome": -814503068
+    },
+    "EREGL": {
+      "paidCapital": 7000000000,
+      "profitableQuarters": 3,
+      "asOfDate": "2026-06-30",
+      "equity": 318646912000,
+      "annualNetIncome": 560156033
+    },
+    "ERSU": {
+      "paidCapital": 36000000,
+      "asOfDate": "2026-06-30",
+      "equity": 497917481,
+      "profitableQuarters": 1,
+      "annualNetIncome": -34994419
+    },
+    "ESCAR": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6603890093,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1482353985
+    },
+    "ESCOM": {
+      "paidCapital": 704842185,
+      "asOfDate": "2026-06-30",
+      "equity": 4262003897,
+      "profitableQuarters": 3,
+      "annualNetIncome": 351949483
+    },
+    "ESEN": {
+      "paidCapital": 1820000000,
+      "asOfDate": "2026-06-30",
+      "equity": 15926793430,
+      "profitableQuarters": 1,
+      "annualNetIncome": -977105067
+    },
+    "ETILR": {
+      "paidCapital": 240000000,
+      "asOfDate": "2026-06-30",
+      "equity": 518778426,
+      "profitableQuarters": 1,
+      "annualNetIncome": -95095163
+    },
+    "ETYAT": {
+      "paidCapital": 60000000,
+      "asOfDate": "2026-06-30",
+      "equity": 73913452,
+      "profitableQuarters": 1,
+      "annualNetIncome": -27527249
+    },
+    "EUHOL": {
+      "paidCapital": 150000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5521564255,
+      "profitableQuarters": 3,
+      "annualNetIncome": 255327284
+    },
+    "EUKYO": {
+      "paidCapital": 60000000,
+      "asOfDate": "2026-06-30",
+      "equity": 83002524,
+      "profitableQuarters": 0,
+      "annualNetIncome": -19065188
+    },
+    "EUPWR": {
+      "paidCapital": 660000000,
+      "asOfDate": "2026-06-30",
+      "equity": 13100437000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 634329085
+    },
+    "EUREN": {
+      "paidCapital": 2100000000,
+      "asOfDate": "2026-06-30",
+      "equity": 12194849471,
+      "profitableQuarters": 3,
+      "annualNetIncome": 18755029
+    },
+    "EUYO": {
+      "paidCapital": 60000000,
+      "asOfDate": "2026-06-30",
+      "equity": 83523784,
+      "profitableQuarters": 1,
+      "annualNetIncome": -16663724
+    },
+    "EYGYO": {
+      "paidCapital": 700000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2043883191,
+      "profitableQuarters": 0,
+      "annualNetIncome": -687082467
+    },
+    "FADE": {
+      "paidCapital": 83895000,
+      "asOfDate": "2026-06-30",
+      "equity": 2177446473,
+      "profitableQuarters": 2,
+      "annualNetIncome": 14299319
+    },
+    "FLAP": {
+      "paidCapital": 93750000,
+      "asOfDate": "2026-06-30",
+      "equity": 1117174577,
+      "profitableQuarters": 1,
+      "annualNetIncome": -79921011
+    },
+    "FMIZP": {
+      "paidCapital": 14276790,
+      "asOfDate": "2026-06-30",
+      "equity": 712409406,
+      "profitableQuarters": 4,
+      "annualNetIncome": 154034028
+    },
+    "FONET": {
+      "paidCapital": 936000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2089432030,
+      "profitableQuarters": 4,
+      "annualNetIncome": 206021139
+    },
+    "FORMT": {
+      "paidCapital": 1140595990,
+      "asOfDate": "2026-06-30",
+      "equity": 2725110033,
+      "profitableQuarters": 1,
+      "annualNetIncome": -128330696
+    },
+    "FORTE": {
+      "paidCapital": 67000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3118104679,
+      "profitableQuarters": 3,
+      "annualNetIncome": 1126122384
+    },
+    "FRIGO": {
+      "paidCapital": 850000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1420781048,
+      "profitableQuarters": 1,
+      "annualNetIncome": -394645819
+    },
+    "FROTO": {
+      "paidCapital": 3509100000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 179191213000,
+      "annualNetIncome": 24210977000
+    },
+    "FZLGY": {
+      "paidCapital": 1214963832,
+      "asOfDate": "2026-06-30",
+      "equity": 4281713595,
+      "profitableQuarters": 1,
+      "annualNetIncome": -984258726
+    },
+    "GARAN": {
+      "paidCapital": 4200000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 487168000000,
+      "annualNetIncome": 120698488000
+    },
+    "GARFA": {
+      "paidCapital": 397500000,
+      "asOfDate": "2026-06-30",
+      "equity": 6758504000,
+      "annualNetIncome": 3585259000,
+      "profitableQuarters": 4
+    },
+    "GEDIK": {
+      "paidCapital": 2000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5695041996,
+      "profitableQuarters": 3,
+      "annualNetIncome": 1365208749
+    },
+    "GEDZA": {
+      "paidCapital": 46656000,
+      "asOfDate": "2026-06-30",
+      "equity": 1293751510,
+      "profitableQuarters": 3,
+      "annualNetIncome": 18216873
+    },
+    "GENIL": {
+      "paidCapital": 4500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 13063308334,
+      "profitableQuarters": 4,
+      "annualNetIncome": 1300182557
+    },
+    "GENTS": {
+      "paidCapital": 750000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4194933046,
+      "profitableQuarters": 3,
+      "annualNetIncome": 217706951
+    },
+    "GEREL": {
+      "paidCapital": 372475397,
+      "asOfDate": "2026-06-30",
+      "equity": 4111964810,
+      "profitableQuarters": 3,
+      "annualNetIncome": 748829968
+    },
+    "GESAN": {
+      "paidCapital": 460000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 17225457000,
+      "annualNetIncome": 705514515
+    },
+    "GIPTA": {
+      "paidCapital": 132000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3589894914,
+      "profitableQuarters": 1,
+      "annualNetIncome": -336474281
+    },
+    "GLBMD": {
+      "paidCapital": 118000000,
+      "asOfDate": "2026-06-30",
+      "equity": 629491386,
+      "profitableQuarters": 0,
+      "annualNetIncome": -101610956
+    },
+    "GLRYH": {
+      "paidCapital": 600000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5678390549,
+      "profitableQuarters": 2,
+      "annualNetIncome": 471002473
+    },
+    "GLYHO": {
+      "paidCapital": 1950000000,
+      "asOfDate": "2026-06-30",
+      "equity": 16601619638,
+      "profitableQuarters": 4,
+      "annualNetIncome": 3677523600
+    },
+    "GMTAS": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4603399953,
+      "profitableQuarters": 1,
+      "annualNetIncome": -115599302
+    },
+    "GOKNR": {
+      "paidCapital": 350000000,
+      "asOfDate": "2026-03-31",
+      "equity": 10885731681,
+      "profitableQuarters": 3,
+      "annualNetIncome": 453715977
+    },
+    "GOLTS": {
+      "paidCapital": 18000000,
+      "asOfDate": "2026-06-30",
+      "equity": 11493314835,
+      "profitableQuarters": 4,
+      "annualNetIncome": 363103155
+    },
+    "GOODY": {
+      "paidCapital": 270000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1624797257,
+      "profitableQuarters": 1,
+      "annualNetIncome": -3667400444
+    },
+    "GOZDE": {
+      "paidCapital": 385000000,
+      "asOfDate": "2026-06-30",
+      "equity": 27504050680,
+      "profitableQuarters": 1,
+      "annualNetIncome": -6862868004
+    },
+    "GRNYO": {
+      "paidCapital": 37500000,
+      "asOfDate": "2026-06-30",
+      "equity": 84737970,
+      "profitableQuarters": 0,
+      "annualNetIncome": -33026676
+    },
+    "GRSEL": {
+      "paidCapital": 102000000,
+      "asOfDate": "2026-06-30",
+      "equity": 13923460638,
+      "profitableQuarters": 4,
+      "annualNetIncome": 3657199655
+    },
+    "GSDDE": {
+      "paidCapital": 150000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3427092000,
+      "profitableQuarters": 2,
+      "annualNetIncome": 569842744
+    },
+    "GSDHO": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 14175456000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 319375942
+    },
+    "GUBRF": {
+      "paidCapital": 334000000,
+      "equity": 35388745864,
+      "annualNetIncome": 8063393852,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-03-31"
+    },
+    "GWIND": {
+      "paidCapital": 540000000,
+      "asOfDate": "2026-06-30",
+      "equity": 17974672827,
+      "profitableQuarters": 4,
+      "annualNetIncome": 984636332
+    },
+    "GZNMI": {
+      "paidCapital": 65000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1328524061,
+      "profitableQuarters": 1,
+      "annualNetIncome": -298883013
+    },
+    "HALKB": {
+      "paidCapital": 7185000000,
+      "asOfDate": "2026-06-30",
+      "equity": 234602000000,
+      "annualNetIncome": 32827506000,
+      "profitableQuarters": 4
+    },
+    "HATEK": {
+      "paidCapital": 63000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1683177655,
+      "profitableQuarters": 1,
+      "annualNetIncome": 185169065
+    },
+    "HATSN": {
+      "paidCapital": 221500000,
+      "asOfDate": "2026-06-30",
+      "equity": 6462814131,
+      "profitableQuarters": 0,
+      "annualNetIncome": -858582804
+    },
+    "HDFGS": {
+      "paidCapital": 1130000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4322378367,
+      "profitableQuarters": 2,
+      "annualNetIncome": 753003356
+    },
+    "HEDEF": {
+      "paidCapital": 3000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 7123223104,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2386969119
+    },
+    "HEKTS": {
+      "paidCapital": 8430000000,
+      "profitableQuarters": 0,
+      "asOfDate": "2026-06-30",
+      "equity": 16475656182,
+      "annualNetIncome": -5229390087
+    },
+    "HKTM": {
+      "paidCapital": 105000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1035675821,
+      "profitableQuarters": 0,
+      "annualNetIncome": -233917904
+    },
+    "HLGYO": {
+      "paidCapital": 3840000000,
+      "asOfDate": "2026-06-30",
+      "equity": 67075795659,
+      "profitableQuarters": 3,
+      "annualNetIncome": 6238426545
+    },
+    "HTTBT": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3432676109,
+      "profitableQuarters": 4,
+      "annualNetIncome": 480249288
+    },
+    "HUBVC": {
+      "paidCapital": 280000000,
+      "asOfDate": "2026-06-30",
+      "equity": 603475767,
+      "profitableQuarters": 1,
+      "annualNetIncome": -301762055
+    },
+    "HUNER": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5100319349,
+      "profitableQuarters": 0,
+      "annualNetIncome": -395936797
+    },
+    "HURGZ": {
+      "paidCapital": 592000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1873606293,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1527838917
+    },
+    "ICBCT": {
+      "paidCapital": 860000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5529000000,
+      "annualNetIncome": 2440195000,
+      "profitableQuarters": 3
+    },
+    "ICUGS": {
+      "paidCapital": 347500000,
+      "asOfDate": "2026-06-30",
+      "equity": 465617911,
+      "profitableQuarters": 0,
+      "annualNetIncome": -258532083
+    },
+    "IDGYO": {
+      "paidCapital": 150000000,
+      "asOfDate": "2026-06-30",
+      "equity": 205556294,
+      "profitableQuarters": 1,
+      "annualNetIncome": -177895025
+    },
+    "IEYHO": {
+      "paidCapital": 543595733,
+      "asOfDate": "2026-06-30",
+      "equity": 2063203458,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1079856914
+    },
+    "IHAAS": {
+      "paidCapital": 163000000,
+      "asOfDate": "2026-06-30",
+      "equity": 304923277,
+      "profitableQuarters": 1,
+      "annualNetIncome": -101260767
+    },
+    "IHEVA": {
+      "paidCapital": 350500000,
+      "asOfDate": "2026-06-30",
+      "equity": 2355269562,
+      "profitableQuarters": 3,
+      "annualNetIncome": 79938688
+    },
+    "IHGZT": {
+      "paidCapital": 800000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4637995406,
+      "profitableQuarters": 2,
+      "annualNetIncome": 253456860
+    },
+    "IHLAS": {
+      "paidCapital": 3000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3870156439,
+      "profitableQuarters": 0,
+      "annualNetIncome": -3637028415
+    },
+    "IHLGM": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2380396273,
+      "profitableQuarters": 2,
+      "annualNetIncome": 928881
+    },
+    "IHYAY": {
+      "paidCapital": 450000000,
+      "asOfDate": "2026-06-30",
+      "equity": 550242089,
+      "profitableQuarters": 1,
+      "annualNetIncome": -361295331
+    },
+    "IMASM": {
+      "paidCapital": 925000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3480233000,
+      "profitableQuarters": 2,
+      "annualNetIncome": -462374991
+    },
+    "INDES": {
+      "paidCapital": 750000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8480702305,
+      "profitableQuarters": 4,
+      "annualNetIncome": 1108823595
+    },
+    "INFO": {
+      "paidCapital": 1920672000,
+      "asOfDate": "2026-06-30",
+      "equity": 4135075486,
+      "profitableQuarters": 4,
+      "annualNetIncome": 1411733146
+    },
+    "INGRM": {
+      "paidCapital": 24000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2129921824,
+      "profitableQuarters": 2,
+      "annualNetIncome": -24605424
+    },
+    "INTEM": {
+      "paidCapital": 19440000,
+      "asOfDate": "2026-06-30",
+      "equity": 1064313674,
+      "profitableQuarters": 2,
+      "annualNetIncome": 47172221
+    },
+    "INVEO": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 12696262546,
+      "profitableQuarters": 1,
+      "annualNetIncome": -8107539231
+    },
+    "INVES": {
+      "paidCapital": 187500000,
+      "asOfDate": "2026-06-30",
+      "equity": 37794943653,
+      "profitableQuarters": 3,
+      "annualNetIncome": 3146101265
+    },
+    "ISATR": {
+      "paidCapital": 1000,
+      "asOfDate": "2026-06-30",
+      "equity": 18127,
+      "annualNetIncome": 2707,
+      "profitableQuarters": 4
+    },
+    "ISBIR": {
+      "paidCapital": 32387040,
+      "asOfDate": "2026-06-30",
+      "equity": 8564619507,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2396825001
+    },
+    "ISBTR": {
+      "paidCapital": 29000,
+      "asOfDate": "2026-06-30",
+      "equity": 525680,
+      "annualNetIncome": 78490,
+      "profitableQuarters": 4
+    },
+    "ISCTR": {
+      "paidCapital": 24999970000,
+      "equity": 453171456194,
+      "annualNetIncome": 67663747803,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30"
+    },
+    "ISDMR": {
+      "paidCapital": 2900000000,
+      "asOfDate": "2026-06-30",
+      "equity": 156061116000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 7672877934
+    },
+    "ISGSY": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 12685131254,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2234725182
+    },
+    "ISGYO": {
+      "paidCapital": 958750000,
+      "asOfDate": "2026-06-30",
+      "equity": 58192772340,
+      "profitableQuarters": 0,
+      "annualNetIncome": -2508694108
+    },
+    "ISKPL": {
+      "paidCapital": 1500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3420809120,
+      "profitableQuarters": 3,
+      "annualNetIncome": 313842418
+    },
+    "ISKUR": {
+      "paidCapital": 25000000000,
+      "asOfDate": "2024-02-23"
+    },
+    "ISMEN": {
+      "paidCapital": 1500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 35252706000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 5925937000
+    },
+    "ISSEN": {
+      "paidCapital": 424397982,
+      "asOfDate": "2026-06-30",
+      "equity": 6896696936,
+      "profitableQuarters": 3,
+      "annualNetIncome": 347626425
+    },
+    "ISYAT": {
+      "paidCapital": 160599284,
+      "asOfDate": "2026-06-30",
+      "equity": 766526337,
+      "profitableQuarters": 1,
+      "annualNetIncome": -31841521
+    },
+    "ITTFH": {
+      "paidCapital": 231250000,
+      "asOfDate": "2022-12-27"
+    },
+    "IZENR": {
+      "paidCapital": 2443750000,
+      "asOfDate": "2026-06-30",
+      "equity": 19306625992,
+      "profitableQuarters": 2,
+      "annualNetIncome": 397428540
+    },
+    "IZFAS": {
+      "paidCapital": 177187500,
+      "asOfDate": "2026-06-30",
+      "equity": 438843808,
+      "profitableQuarters": 1,
+      "annualNetIncome": -93111620
+    },
+    "IZINV": {
+      "paidCapital": 17512456,
+      "asOfDate": "2026-06-30",
+      "equity": 375979251,
+      "profitableQuarters": 1,
+      "annualNetIncome": -60395207
+    },
+    "IZMDC": {
+      "paidCapital": 1500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 20635283963,
+      "profitableQuarters": 2,
+      "annualNetIncome": -1622232698
+    },
+    "JANTS": {
+      "paidCapital": 700000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8535480026,
+      "profitableQuarters": 2,
+      "annualNetIncome": 620985260
+    },
+    "KAPLM": {
+      "paidCapital": 20000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2353729501,
+      "profitableQuarters": 1,
+      "annualNetIncome": -418768023
+    },
+    "KAREL": {
+      "paidCapital": 805885530,
+      "asOfDate": "2026-06-30",
+      "equity": 1133048170,
+      "profitableQuarters": 1,
+      "annualNetIncome": -807907372
+    },
+    "KARSN": {
+      "paidCapital": 900000000,
+      "profitableQuarters": 2,
+      "asOfDate": "2026-06-30",
+      "equity": 8205042000,
+      "annualNetIncome": 352055824
+    },
+    "KARTN": {
+      "paidCapital": 75000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2919640606,
+      "profitableQuarters": 1,
+      "annualNetIncome": -588180728
+    },
+    "KATMR": {
+      "paidCapital": 2153250000,
+      "asOfDate": "2026-06-30",
+      "equity": 10500128155,
+      "profitableQuarters": 2,
+      "annualNetIncome": 525876572
+    },
+    "KCAER": {
+      "paidCapital": 1915000000,
+      "asOfDate": "2026-06-30",
+      "equity": 14856920024,
+      "profitableQuarters": 3,
+      "annualNetIncome": 320118371
+    },
+    "KCHOL": {
+      "paidCapital": 2536000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 792639000000,
+      "annualNetIncome": 37977041242
+    },
+    "KENT": {
+      "paidCapital": 330000000,
+      "asOfDate": "2026-06-30",
+      "equity": 7667183407,
+      "profitableQuarters": 0,
+      "annualNetIncome": -939974120
+    },
+    "KERVN": {
+      "paidCapital": 588505080,
+      "asOfDate": "2026-06-30",
+      "equity": 4662630366,
+      "profitableQuarters": 4,
+      "annualNetIncome": 2893714906
+    },
+    "KFEIN": {
+      "paidCapital": 197500000,
+      "asOfDate": "2026-06-30",
+      "equity": 1400867976,
+      "profitableQuarters": 2,
+      "annualNetIncome": 31742912
+    },
+    "KGYO": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1442757008,
+      "profitableQuarters": 1,
+      "annualNetIncome": -882470804
+    },
+    "KIMMR": {
+      "paidCapital": 240000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5238694544,
+      "profitableQuarters": 4,
+      "annualNetIncome": 334731245
+    },
+    "KLGYO": {
+      "paidCapital": 1395000000,
+      "asOfDate": "2026-06-30",
+      "equity": 27159571000,
+      "profitableQuarters": 0,
+      "annualNetIncome": -956388697
+    },
+    "KLKIM": {
+      "paidCapital": 460000000,
+      "asOfDate": "2026-06-30",
+      "equity": 7408367862,
+      "profitableQuarters": 4,
+      "annualNetIncome": 675442722
+    },
+    "KLMSN": {
+      "paidCapital": 79200000,
+      "asOfDate": "2026-06-30",
+      "equity": 4228002102,
+      "profitableQuarters": 1,
+      "annualNetIncome": -519218780
+    },
+    "KLNMA": {
+      "paidCapital": 10000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 38684000000,
+      "annualNetIncome": 10271746000,
+      "profitableQuarters": 4
+    },
+    "KLRHO": {
+      "paidCapital": 1625000000,
+      "asOfDate": "2026-06-30",
+      "equity": 37896619000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 195474000
+    },
+    "KLSER": {
+      "paidCapital": 514778661,
+      "asOfDate": "2026-06-30",
+      "equity": 6820639111,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2234770764
+    },
+    "KLSYN": {
+      "paidCapital": 431419816,
+      "asOfDate": "2026-06-30",
+      "equity": 4000182896,
+      "profitableQuarters": 3,
+      "annualNetIncome": 33362514
+    },
+    "KMPUR": {
+      "paidCapital": 486200000,
+      "asOfDate": "2026-06-30",
+      "equity": 4403929772,
+      "profitableQuarters": 4,
+      "annualNetIncome": 730057807
+    },
+    "KNFRT": {
+      "paidCapital": 264000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1592033180,
+      "profitableQuarters": 1,
+      "annualNetIncome": -162640587
+    },
+    "KONKA": {
+      "paidCapital": 390000000,
+      "asOfDate": "2026-06-30",
+      "equity": 9356692393,
+      "profitableQuarters": 0,
+      "annualNetIncome": -776591043
+    },
+    "KONTR": {
+      "paidCapital": 1300000000,
+      "profitableQuarters": 1,
+      "asOfDate": "2026-03-31",
+      "equity": 6516972751,
+      "annualNetIncome": -1176043310
+    },
+    "KONYA": {
+      "paidCapital": 4873440,
+      "asOfDate": "2026-06-30",
+      "equity": 5285203290,
+      "profitableQuarters": 3,
+      "annualNetIncome": 410724611
+    },
+    "KOPOL": {
+      "paidCapital": 1296960000,
+      "asOfDate": "2026-06-30",
+      "equity": 5461605284,
+      "profitableQuarters": 2,
+      "annualNetIncome": 263210384
+    },
+    "KORDS": {
+      "paidCapital": 194529076,
+      "asOfDate": "2026-06-30",
+      "equity": 17376545577,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1384468318
+    },
+    "KRDMA": {
+      "paidCapital": 240303646,
+      "asOfDate": "2026-06-30",
+      "equity": 22838034190,
+      "profitableQuarters": 2,
+      "annualNetIncome": 913514518
+    },
+    "KRDMB": {
+      "paidCapital": 119470352,
+      "asOfDate": "2026-06-30",
+      "equity": 11354251309,
+      "profitableQuarters": 2,
+      "annualNetIncome": 454166648
+    },
+    "KRDMD": {
+      "paidCapital": 780226002,
+      "equity": 74151301436,
+      "annualNetIncome": 2966029819,
+      "profitableQuarters": 2,
+      "asOfDate": "2026-06-30"
+    },
+    "KRGYO": {
+      "paidCapital": 990000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2741921258,
+      "profitableQuarters": 1,
+      "annualNetIncome": -45404961
+    },
+    "KRONT": {
+      "paidCapital": 171222156,
+      "asOfDate": "2026-06-30",
+      "equity": 918859869,
+      "profitableQuarters": 3,
+      "annualNetIncome": 72148103
+    },
+    "KRPLS": {
+      "paidCapital": 174600000,
+      "asOfDate": "2026-06-30",
+      "equity": 1056265672,
+      "profitableQuarters": 1,
+      "annualNetIncome": -39802744
+    },
+    "KRSTL": {
+      "paidCapital": 192000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2256860497,
+      "profitableQuarters": 4,
+      "annualNetIncome": 357879231
+    },
+    "KRTEK": {
+      "paidCapital": 35100498,
+      "asOfDate": "2026-06-30",
+      "equity": 1897977025,
+      "profitableQuarters": 1,
+      "annualNetIncome": -75561469
+    },
+    "KRVGD": {
+      "paidCapital": 2160000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8166701000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 675476734
+    },
+    "KSTUR": {
+      "paidCapital": 4244587,
+      "asOfDate": "2026-06-30",
+      "equity": 807459823,
+      "profitableQuarters": 2,
+      "annualNetIncome": -12061121
+    },
+    "KTSKR": {
+      "paidCapital": 46000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6661389952,
+      "profitableQuarters": 0,
+      "annualNetIncome": -204323389
+    },
+    "KUTPO": {
+      "paidCapital": 39916800,
+      "asOfDate": "2026-06-30",
+      "equity": 5159311652,
+      "profitableQuarters": 3,
+      "annualNetIncome": -34622395
+    },
+    "KUVVA": {
+      "paidCapital": 31042007,
+      "asOfDate": "2026-03-31",
+      "equity": 455277050,
+      "profitableQuarters": 2,
+      "annualNetIncome": -341915119
+    },
+    "KUYAS": {
+      "paidCapital": 400000000,
+      "asOfDate": "2026-03-31",
+      "equity": 1771741339,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1561410104
+    },
+    "KZBGY": {
+      "paidCapital": 4000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 26830236971,
+      "profitableQuarters": 2,
+      "annualNetIncome": 23854666
+    },
+    "KZGYO": {
+      "paidCapital": 200000000,
+      "asOfDate": "2026-06-30",
+      "equity": 13648801280,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1571576750
+    },
+    "LIDER": {
+      "paidCapital": 825000000,
+      "asOfDate": "2026-06-30",
+      "equity": 11097562192,
+      "profitableQuarters": 2,
+      "annualNetIncome": 621804446
+    },
+    "LIDFA": {
+      "paidCapital": 1088802000,
+      "asOfDate": "2026-03-31",
+      "equity": 3173753000,
+      "annualNetIncome": 1220362000,
+      "profitableQuarters": 4
+    },
+    "LINK": {
+      "paidCapital": 891754956,
+      "asOfDate": "2026-06-30",
+      "equity": 2157810803,
+      "profitableQuarters": 3,
+      "annualNetIncome": 410030654
+    },
+    "LKMNH": {
+      "paidCapital": 216000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2747006577,
+      "profitableQuarters": 4,
+      "annualNetIncome": 125558071
+    },
+    "LOGO": {
+      "paidCapital": 95000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4433873000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 888947396
+    },
+    "LUKSK": {
+      "paidCapital": 28000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1721779814,
+      "profitableQuarters": 2,
+      "annualNetIncome": 33888189
+    },
+    "MAALT": {
+      "paidCapital": 8640048,
+      "asOfDate": "2026-06-30",
+      "equity": 5753818507,
+      "profitableQuarters": 2,
+      "annualNetIncome": 461647
+    },
+    "MACKO": {
+      "paidCapital": 100000000,
+      "asOfDate": "2026-06-30",
+      "equity": 515613961,
+      "profitableQuarters": 4,
+      "annualNetIncome": 277087086
+    },
+    "MAGEN": {
+      "paidCapital": 2950000000,
+      "asOfDate": "2026-06-30",
+      "equity": 15914856632,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2660738167
+    },
+    "MAKIM": {
+      "paidCapital": 112000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1340883994,
+      "profitableQuarters": 3,
+      "annualNetIncome": 108222854
+    },
+    "MAKTK": {
+      "paidCapital": 200000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2049482659,
+      "profitableQuarters": 2,
+      "annualNetIncome": -146665596
+    },
+    "MANAS": {
+      "paidCapital": 331056000,
+      "asOfDate": "2026-06-30",
+      "equity": 577157027,
+      "profitableQuarters": 0,
+      "annualNetIncome": -684666008
+    },
+    "MARKA": {
+      "paidCapital": 20990000,
+      "asOfDate": "2026-06-30",
+      "equity": 305848233,
+      "profitableQuarters": 2,
+      "annualNetIncome": 32922638
+    },
+    "MAVI": {
+      "paidCapital": 794512000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-03-31",
+      "equity": 15648837000,
+      "annualNetIncome": 2085512812
+    },
+    "MEDTR": {
+      "paidCapital": 119000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3359521919,
+      "profitableQuarters": 2,
+      "annualNetIncome": 34753360
+    },
+    "MEGAP": {
+      "paidCapital": 275000000,
+      "asOfDate": "2026-03-31",
+      "equity": 2298735475,
+      "profitableQuarters": 2,
+      "annualNetIncome": -856405931
+    },
+    "MEPET": {
+      "paidCapital": 75350000,
+      "asOfDate": "2026-03-31",
+      "equity": 3075358782,
+      "profitableQuarters": 4,
+      "annualNetIncome": 335578085
+    },
+    "MERCN": {
+      "paidCapital": 190370946,
+      "asOfDate": "2026-06-30",
+      "equity": 2849932930,
+      "profitableQuarters": 4,
+      "annualNetIncome": 167768331
+    },
+    "MERIT": {
+      "paidCapital": 336600000,
+      "asOfDate": "2026-06-30",
+      "equity": 20441666820,
+      "profitableQuarters": 4,
+      "annualNetIncome": 483772986
+    },
+    "METRO": {
+      "paidCapital": 540000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5041765025,
+      "profitableQuarters": 3,
+      "annualNetIncome": -612674412
+    },
+    "MGROS": {
+      "paidCapital": 181054000,
+      "profitableQuarters": 3,
+      "asOfDate": "2026-06-30",
+      "equity": 92914971000,
+      "annualNetIncome": 6881189417
+    },
+    "MIATK": {
+      "paidCapital": 494000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6023478581,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1807116853
+    },
+    "MMCAS": {
+      "paidCapital": 13336879,
+      "asOfDate": "2026-06-30",
+      "equity": 13151816,
+      "profitableQuarters": 1,
+      "annualNetIncome": -5667117
+    },
+    "MNDRS": {
+      "paidCapital": 277292576,
+      "asOfDate": "2026-06-30",
+      "equity": 17625153719,
+      "profitableQuarters": 3,
+      "annualNetIncome": 522135505
+    },
+    "MNDTR": {
+      "paidCapital": 1049040806,
+      "asOfDate": "2026-06-30",
+      "equity": 8060274355,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1914986256
+    },
+    "MOBTL": {
+      "paidCapital": 1025000000,
+      "asOfDate": "2026-06-30",
+      "equity": 9427977870,
+      "profitableQuarters": 4,
+      "annualNetIncome": 89463960
+    },
+    "MPARK": {
+      "paidCapital": 191012000,
+      "asOfDate": "2026-06-30",
+      "equity": 43827509000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 6654877703
+    },
+    "MRSHL": {
+      "paidCapital": 10994134,
+      "asOfDate": "2026-06-30",
+      "equity": 1237718649,
+      "profitableQuarters": 2,
+      "annualNetIncome": -131400949
+    },
+    "MSGYO": {
+      "paidCapital": 469768118,
+      "asOfDate": "2026-06-30",
+      "equity": 5347271580,
+      "profitableQuarters": 2,
+      "annualNetIncome": -44340681
+    },
+    "MTRKS": {
+      "paidCapital": 100500000,
+      "asOfDate": "2026-06-30",
+      "equity": 1242250754,
+      "profitableQuarters": 4,
+      "annualNetIncome": 312247014
+    },
+    "MTRYO": {
+      "paidCapital": 42000000,
+      "asOfDate": "2026-06-30",
+      "equity": 553156951,
+      "profitableQuarters": 2,
+      "annualNetIncome": -58133009
+    },
+    "MZHLD": {
+      "paidCapital": 108559000,
+      "asOfDate": "2026-06-30",
+      "equity": 64594640,
+      "profitableQuarters": 1,
+      "annualNetIncome": -48722282
+    },
+    "NATEN": {
+      "paidCapital": 825000000,
+      "asOfDate": "2026-06-30",
+      "equity": 9594074314,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1039990388
+    },
+    "NETAS": {
+      "paidCapital": 64864800,
+      "asOfDate": "2026-06-30",
+      "profitableQuarters": 1,
+      "equity": 4645273,
+      "annualNetIncome": -196058854
+    },
+    "NIBAS": {
+      "paidCapital": 324000000,
+      "asOfDate": "2026-06-30",
+      "equity": 257486815,
+      "profitableQuarters": 1,
+      "annualNetIncome": -600273384
+    },
+    "NTGAZ": {
+      "paidCapital": 690000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6002107801,
+      "profitableQuarters": 3,
+      "annualNetIncome": 729458385
+    },
+    "NTHOL": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 89236392000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 1216951866
+    },
+    "NUGYO": {
+      "paidCapital": 335348000,
+      "asOfDate": "2026-06-30",
+      "equity": 6890782026,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1026483300
+    },
+    "NUHCM": {
+      "paidCapital": 150214000,
+      "asOfDate": "2026-06-30",
+      "equity": 24816230000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 258993533
+    },
+    "OBASE": {
+      "paidCapital": 45500000,
+      "asOfDate": "2026-06-30",
+      "equity": 813702160,
+      "profitableQuarters": 1,
+      "annualNetIncome": -8861967
+    },
+    "ODAS": {
+      "paidCapital": 1400000000,
+      "asOfDate": "2026-06-30",
+      "equity": 15854370761,
+      "profitableQuarters": 2,
+      "annualNetIncome": -49393442
+    },
+    "OFSYM": {
+      "paidCapital": 146250000,
+      "asOfDate": "2026-06-30",
+      "equity": 5065975888,
+      "profitableQuarters": 3,
+      "annualNetIncome": 344397518
+    },
+    "ONCSM": {
+      "paidCapital": 23850000,
+      "asOfDate": "2026-06-30",
+      "equity": 505011304,
+      "profitableQuarters": 4,
+      "annualNetIncome": 46659775
+    },
+    "ORCAY": {
+      "paidCapital": 240000000,
+      "asOfDate": "2026-06-30",
+      "equity": 868615442,
+      "profitableQuarters": 2,
+      "annualNetIncome": -126771322
+    },
+    "ORGE": {
+      "paidCapital": 80000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5205533687,
+      "profitableQuarters": 4,
+      "annualNetIncome": 929672897
+    },
+    "ORMA": {
+      "paidCapital": 27200000,
+      "asOfDate": "2026-06-30",
+      "equity": 8131663098,
+      "profitableQuarters": 2,
+      "annualNetIncome": -11819527
+    },
+    "OSMEN": {
+      "paidCapital": 401411202,
+      "asOfDate": "2026-06-30",
+      "equity": 3246235860,
+      "profitableQuarters": 3,
+      "annualNetIncome": 108778978
+    },
+    "OSTIM": {
+      "paidCapital": 796500000,
+      "asOfDate": "2026-06-30",
+      "equity": 3042306379,
+      "profitableQuarters": 1,
+      "annualNetIncome": -150323249
+    },
+    "OTKAR": {
+      "paidCapital": 120000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5508500000,
+      "profitableQuarters": 0,
+      "annualNetIncome": -6106814813
+    },
+    "OTTO": {
+      "paidCapital": 7635461,
+      "asOfDate": "2026-03-31",
+      "equity": 651050782,
+      "profitableQuarters": 0,
+      "annualNetIncome": -26800471
+    },
+    "OYAKC": {
+      "paidCapital": 4861656000,
+      "asOfDate": "2026-06-30",
+      "equity": 76166532000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 7734893143
+    },
+    "OYAYO": {
+      "paidCapital": 20000000,
+      "asOfDate": "2026-06-30",
+      "equity": 173802396,
+      "profitableQuarters": 2,
+      "annualNetIncome": 846127
+    },
+    "OYLUM": {
+      "paidCapital": 85000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1207781844,
+      "profitableQuarters": 0,
+      "annualNetIncome": -103788452
+    },
+    "OYYAT": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 13207936685,
+      "profitableQuarters": 3,
+      "annualNetIncome": 518736818
+    },
+    "OZGYO": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 7104594795,
+      "profitableQuarters": 1,
+      "annualNetIncome": 33753954
+    },
+    "OZKGY": {
+      "paidCapital": 1456000000,
+      "asOfDate": "2026-06-30",
+      "equity": 75033456477,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2062109277
+    },
+    "OZRDN": {
+      "paidCapital": 73500000,
+      "asOfDate": "2026-03-31",
+      "equity": 353515478,
+      "profitableQuarters": 0,
+      "annualNetIncome": -50939547
+    },
+    "OZSUB": {
+      "paidCapital": 120000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1421319515,
+      "profitableQuarters": 4,
+      "annualNetIncome": 482047858
+    },
+    "PAGYO": {
+      "paidCapital": 87000000,
+      "asOfDate": "2026-06-30",
+      "equity": 17779034372,
+      "profitableQuarters": 4,
+      "annualNetIncome": 868300290
+    },
+    "PAMEL": {
+      "paidCapital": 31095331,
+      "asOfDate": "2026-06-30",
+      "equity": 640174623,
+      "profitableQuarters": 0,
+      "annualNetIncome": -497206145
+    },
+    "PAPIL": {
+      "paidCapital": 206250000,
+      "asOfDate": "2026-06-30",
+      "equity": 344361117,
+      "profitableQuarters": 1,
+      "annualNetIncome": -277993678
+    },
+    "PARSN": {
+      "paidCapital": 86788722,
+      "asOfDate": "2026-06-30",
+      "equity": 15851126199,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1192027441
+    },
+    "PASEU": {
+      "paidCapital": 672000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4172344492,
+      "profitableQuarters": 4,
+      "annualNetIncome": 72346464
+    },
+    "PCILT": {
+      "paidCapital": 118350000,
+      "asOfDate": "2026-06-30",
+      "equity": 2561878078,
+      "profitableQuarters": 4,
+      "annualNetIncome": 526649162
+    },
+    "PEKGY": {
+      "paidCapital": 5000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8306228676,
+      "profitableQuarters": 1,
+      "annualNetIncome": 1379033365
+    },
+    "PENGD": {
+      "paidCapital": 175000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4950615077,
+      "profitableQuarters": 1,
+      "annualNetIncome": -121308223
+    },
+    "PENTA": {
+      "paidCapital": 393516000,
+      "asOfDate": "2026-06-30",
+      "equity": 4660821143,
+      "profitableQuarters": 4,
+      "annualNetIncome": 114962336
+    },
+    "PETKM": {
+      "paidCapital": 2534400000,
+      "profitableQuarters": 1,
+      "asOfDate": "2026-06-30",
+      "equity": 75236997000,
+      "annualNetIncome": -8373954826
+    },
+    "PETUN": {
+      "paidCapital": 303345000,
+      "asOfDate": "2026-06-30",
+      "equity": 11242116996,
+      "profitableQuarters": 3,
+      "annualNetIncome": 262767585
+    },
+    "PGSUS": {
+      "paidCapital": 500000000,
+      "profitableQuarters": 2,
+      "asOfDate": "2026-06-30",
+      "equity": 112660264000,
+      "annualNetIncome": 1142375503
+    },
+    "PINSU": {
+      "paidCapital": 284288125,
+      "asOfDate": "2026-06-30",
+      "equity": 3099868368,
+      "profitableQuarters": 3,
+      "annualNetIncome": 146487574
+    },
+    "PKART": {
+      "paidCapital": 22750000,
+      "asOfDate": "2026-06-30",
+      "equity": 604766386,
+      "profitableQuarters": 3,
+      "annualNetIncome": 32797550
+    },
+    "PKENT": {
+      "paidCapital": 24883200,
+      "asOfDate": "2026-06-30",
+      "equity": 1537207929,
+      "profitableQuarters": 2,
+      "annualNetIncome": 182222003
+    },
+    "PLTUR": {
+      "paidCapital": 244750000,
+      "asOfDate": "2026-06-30",
+      "equity": 10175656791,
+      "profitableQuarters": 3,
+      "annualNetIncome": 162577554
+    },
+    "PNLSN": {
+      "paidCapital": 75000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3526351352,
+      "profitableQuarters": 3,
+      "annualNetIncome": 175673868
+    },
+    "PNSUT": {
+      "paidCapital": 314657359,
+      "asOfDate": "2026-06-30",
+      "equity": 12342307408,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1113878657
+    },
+    "POLHO": {
+      "paidCapital": 758500000,
+      "asOfDate": "2026-06-30",
+      "equity": 14516233382,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2584444039
+    },
+    "POLTK": {
+      "paidCapital": 3750000,
+      "asOfDate": "2026-06-30",
+      "equity": 327069268,
+      "profitableQuarters": 1,
+      "annualNetIncome": -60983839
+    },
+    "PRDGS": {
+      "paidCapital": 196000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2941261099,
+      "profitableQuarters": 2,
+      "annualNetIncome": 16434066
+    },
+    "PRKAB": {
+      "paidCapital": 216733652,
+      "asOfDate": "2026-06-30",
+      "equity": 746884862,
+      "profitableQuarters": 0,
+      "annualNetIncome": -430930380
+    },
+    "PRKME": {
+      "paidCapital": 148867243,
+      "asOfDate": "2026-06-30",
+      "equity": 5220392157,
+      "profitableQuarters": 1,
+      "annualNetIncome": -687142883
+    },
+    "PRZMA": {
+      "paidCapital": 77449591,
+      "asOfDate": "2026-06-30",
+      "equity": 498788180,
+      "profitableQuarters": 1,
+      "annualNetIncome": -112010801
+    },
+    "PSDTC": {
+      "paidCapital": 7425000,
+      "asOfDate": "2026-06-30",
+      "equity": 261792309,
+      "profitableQuarters": 3,
+      "annualNetIncome": 28169915
+    },
+    "PSGYO": {
+      "paidCapital": 6900847276,
+      "asOfDate": "2026-06-30",
+      "equity": 42593746169,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2532993292
+    },
+    "QUAGR": {
+      "paidCapital": 2640000000,
+      "asOfDate": "2026-06-30",
+      "equity": 10750122498,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1170604735
+    },
+    "RALYH": {
+      "paidCapital": 333000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8365160588,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2765338092
+    },
+    "RAYSG": {
+      "paidCapital": 163069856,
+      "asOfDate": "2026-06-30"
+    },
+    "REEDR": {
+      "paidCapital": 950000000,
+      "profitableQuarters": 0,
+      "asOfDate": "2026-03-31",
+      "equity": 8578258629,
+      "annualNetIncome": -1131133283
+    },
+    "RNPOL": {
+      "paidCapital": 600000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1211576087,
+      "profitableQuarters": 2,
+      "annualNetIncome": 74875069
+    },
+    "RODRG": {
+      "paidCapital": 28340000,
+      "asOfDate": "2026-06-30",
+      "equity": 77582623,
+      "profitableQuarters": 2,
+      "annualNetIncome": 18411310
+    },
+    "RTALB": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2923867151,
+      "profitableQuarters": 1,
+      "annualNetIncome": 48732299
+    },
+    "RUBNS": {
+      "paidCapital": 81950000,
+      "asOfDate": "2026-06-30",
+      "equity": 5415826981,
+      "profitableQuarters": 3,
+      "annualNetIncome": 9768261
+    },
+    "RYGYO": {
+      "paidCapital": 2000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 103262702859,
+      "profitableQuarters": 3,
+      "annualNetIncome": 1523458228
+    },
+    "RYSAS": {
+      "paidCapital": 2000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 28804848884,
+      "profitableQuarters": 4,
+      "annualNetIncome": 1442706331
+    },
+    "SAFKR": {
+      "paidCapital": 200000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1386338733,
+      "profitableQuarters": 3,
+      "annualNetIncome": 173146514
+    },
+    "SAHOL": {
+      "paidCapital": 2100376000,
+      "equity": 419322964000,
+      "annualNetIncome": 8631711340,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30"
+    },
+    "SAMAT": {
+      "paidCapital": 112400000,
+      "asOfDate": "2026-06-30",
+      "equity": 744452531,
+      "profitableQuarters": 2,
+      "annualNetIncome": 41182845
+    },
+    "SANEL": {
+      "paidCapital": 18255333,
+      "asOfDate": "2026-06-30",
+      "equity": 260894826,
+      "profitableQuarters": 4,
+      "annualNetIncome": 205910519
+    },
+    "SANFM": {
+      "paidCapital": 375000000,
+      "asOfDate": "2026-06-30",
+      "equity": 695662077,
+      "profitableQuarters": 3,
+      "annualNetIncome": 15890212
+    },
+    "SANKO": {
+      "paidCapital": 150000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2579151714,
+      "profitableQuarters": 0,
+      "annualNetIncome": -203509139
+    },
+    "SARKY": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 13404754027,
+      "profitableQuarters": 3,
+      "annualNetIncome": 265884395
+    },
+    "SASA": {
+      "paidCapital": 47040879000,
+      "profitableQuarters": 2,
+      "asOfDate": "2026-06-30",
+      "equity": 192675743000,
+      "annualNetIncome": -13723983624
+    },
+    "SAYAS": {
+      "paidCapital": 77250000,
+      "asOfDate": "2026-06-30",
+      "equity": 1570615195,
+      "profitableQuarters": 4,
+      "annualNetIncome": 203881274
+    },
+    "SDTTR": {
+      "paidCapital": 58000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2874845509,
+      "profitableQuarters": 3,
+      "annualNetIncome": 49487159
+    },
+    "SEGYO": {
+      "paidCapital": 813555283,
+      "asOfDate": "2026-06-30",
+      "equity": 7026704745,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1757975934
+    },
+    "SEKUR": {
+      "paidCapital": 187641391,
+      "asOfDate": "2026-06-30",
+      "equity": 602289473,
+      "profitableQuarters": 2,
+      "annualNetIncome": 20594798
+    },
+    "SELEC": {
+      "paidCapital": 621000000,
+      "asOfDate": "2026-06-30",
+      "equity": 37112800861,
+      "profitableQuarters": 2,
+      "annualNetIncome": 192326885
+    },
+    "SELVA": {
+      "paidCapital": 1053000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2602122000,
+      "profitableQuarters": 0,
+      "annualNetIncome": -899720421
+    },
+    "SEYKM": {
+      "paidCapital": 200000000,
+      "asOfDate": "2026-06-30",
+      "equity": 589215476,
+      "profitableQuarters": 2,
+      "annualNetIncome": 15463126
+    },
+    "SILVR": {
+      "paidCapital": 350000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1850058028,
+      "profitableQuarters": 1,
+      "annualNetIncome": -168647858
+    },
+    "SISE": {
+      "paidCapital": 3063214000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 270067115000,
+      "annualNetIncome": 11737676560
+    },
+    "SKBNK": {
+      "paidCapital": 2500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 15255000000,
+      "annualNetIncome": 2765697000,
+      "profitableQuarters": 4
+    },
+    "SKTAS": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2650854980,
+      "profitableQuarters": 2,
+      "annualNetIncome": -103293080
+    },
+    "SMART": {
+      "paidCapital": 31862500,
+      "asOfDate": "2026-06-30",
+      "equity": 512138183,
+      "profitableQuarters": 1,
+      "annualNetIncome": -44020546
+    },
+    "SMRTG": {
+      "paidCapital": 1817640000,
+      "profitableQuarters": 3,
+      "asOfDate": "2026-06-30",
+      "equity": 5305084595,
+      "annualNetIncome": 224713095
+    },
+    "SNGYO": {
+      "paidCapital": 4000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 55729881980,
+      "profitableQuarters": 2,
+      "annualNetIncome": -437117154
+    },
+    "SNICA": {
+      "paidCapital": 600000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5228101364,
+      "profitableQuarters": 1,
+      "annualNetIncome": -672609907
+    },
+    "SNPAM": {
+      "paidCapital": 390000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8460238329,
+      "profitableQuarters": 1,
+      "annualNetIncome": -558614518
+    },
+    "SODSN": {
+      "paidCapital": 120000000,
+      "asOfDate": "2026-06-30",
+      "equity": 196716786,
+      "profitableQuarters": 1,
+      "annualNetIncome": -57823631
+    },
+    "SOKE": {
+      "paidCapital": 386500000,
+      "asOfDate": "2026-06-30",
+      "equity": 4700160295,
+      "profitableQuarters": 1,
+      "annualNetIncome": -162240303
+    },
+    "SOKM": {
+      "paidCapital": 593290008,
+      "asOfDate": "2026-06-30",
+      "equity": 40045381685,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2666898307
+    },
+    "SONME": {
+      "paidCapital": 74000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5013521427,
+      "profitableQuarters": 1,
+      "annualNetIncome": -328236888
+    },
+    "SRVGY": {
+      "paidCapital": 3250000000,
+      "asOfDate": "2026-06-30",
+      "equity": 31343222646,
+      "profitableQuarters": 2,
+      "annualNetIncome": 3459342829
+    },
+    "SUMAS": {
+      "paidCapital": 6224400,
+      "asOfDate": "2026-06-30",
+      "equity": 518557159,
+      "profitableQuarters": 2,
+      "annualNetIncome": -15891180
+    },
+    "SUNTK": {
+      "paidCapital": 474600000,
+      "asOfDate": "2026-06-30",
+      "equity": 8163412317,
+      "profitableQuarters": 3,
+      "annualNetIncome": 636066029
+    },
+    "SUWEN": {
+      "paidCapital": 560000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1709061437,
+      "profitableQuarters": 3,
+      "annualNetIncome": -157872668
+    },
+    "TARKM": {
+      "paidCapital": 21000000,
+      "asOfDate": "2026-06-30",
+      "equity": 3242157821,
+      "profitableQuarters": 2,
+      "annualNetIncome": 12562658
+    },
+    "TATEN": {
+      "paidCapital": 1122000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5440247904,
+      "profitableQuarters": 2,
+      "annualNetIncome": -38001882
+    },
+    "TATGD": {
+      "paidCapital": 244800000,
+      "asOfDate": "2026-06-30",
+      "equity": 8452997581,
+      "profitableQuarters": 4,
+      "annualNetIncome": 618898459
+    },
+    "TAVHL": {
+      "paidCapital": 363281000,
+      "equity": 81990556000,
+      "annualNetIncome": 5773964238,
+      "profitableQuarters": 2,
+      "asOfDate": "2026-06-30"
+    },
+    "TBORG": {
+      "paidCapital": 322508000,
+      "asOfDate": "2026-06-30",
+      "equity": 29844375000,
+      "profitableQuarters": 3,
+      "annualNetIncome": 3144225361
+    },
+    "TCELL": {
+      "paidCapital": 2200000000,
+      "equity": 309560267000,
+      "annualNetIncome": 21059300508,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30"
+    },
+    "TDGYO": {
+      "paidCapital": 69000000,
+      "asOfDate": "2026-06-30",
+      "equity": 859002571,
+      "profitableQuarters": 2,
+      "annualNetIncome": 147089767
+    },
+    "TEKTU": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6140681907,
+      "profitableQuarters": 1,
+      "annualNetIncome": -993060889
+    },
+    "TERA": {
+      "paidCapital": 700000000,
+      "asOfDate": "2026-06-30",
+      "equity": 92322458603,
+      "profitableQuarters": 4,
+      "annualNetIncome": 65693414126
+    },
+    "TEZOL": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6783843000,
+      "profitableQuarters": 2,
+      "annualNetIncome": -41866650
+    },
+    "TGSAS": {
+      "paidCapital": 15000000,
+      "asOfDate": "2026-03-31",
+      "equity": 360638941,
+      "profitableQuarters": 3,
+      "annualNetIncome": 64722129
+    },
+    "THYAO": {
+      "paidCapital": 1380000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 1018517000000,
+      "annualNetIncome": 101746000000
+    },
+    "TKFEN": {
+      "paidCapital": 370000000,
+      "asOfDate": "2026-03-31",
+      "equity": 35055157000,
+      "profitableQuarters": 0,
+      "annualNetIncome": -5871101622
+    },
+    "TKNSA": {
+      "paidCapital": 201000000,
+      "asOfDate": "2026-06-30",
+      "equity": 324275000,
+      "profitableQuarters": 1,
+      "annualNetIncome": -2851410522
+    },
+    "TLMAN": {
+      "paidCapital": 21000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2046731889,
+      "profitableQuarters": 1,
+      "annualNetIncome": -82069315
+    },
+    "TMPOL": {
+      "paidCapital": 14175000,
+      "asOfDate": "2026-06-30",
+      "equity": 937113835,
+      "profitableQuarters": 0,
+      "annualNetIncome": -120400282
+    },
+    "TMSN": {
+      "paidCapital": 115000000,
+      "asOfDate": "2026-06-30",
+      "equity": 15182862757,
+      "profitableQuarters": 0,
+      "annualNetIncome": -5721072533
+    },
+    "TNZTP": {
+      "paidCapital": 400000000,
+      "asOfDate": "2026-06-30",
+      "equity": 9529988061,
+      "profitableQuarters": 4,
+      "annualNetIncome": 523811974
+    },
+    "TOASO": {
+      "paidCapital": 500000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 65740826000,
+      "annualNetIncome": 14011380783
+    },
+    "TRALT": {
+      "paidCapital": 3202500000,
+      "equity": 53153385000,
+      "annualNetIncome": 5453837194,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30"
+    },
+    "TRCAS": {
+      "paidCapital": 255600000,
+      "asOfDate": "2026-06-30",
+      "equity": 16996075561,
+      "profitableQuarters": 3,
+      "annualNetIncome": 1164613031
+    },
+    "TRGYO": {
+      "paidCapital": 1000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 154004463000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 7523023185
+    },
+    "TRILC": {
+      "paidCapital": 1037000000,
+      "asOfDate": "2026-03-31",
+      "equity": 1985914418,
+      "profitableQuarters": 2,
+      "annualNetIncome": -83832708
+    },
+    "TSGYO": {
+      "paidCapital": 650000000,
+      "asOfDate": "2026-06-30",
+      "equity": 7367275319,
+      "profitableQuarters": 2,
+      "annualNetIncome": 91133897
+    },
+    "TSKB": {
+      "paidCapital": 2800000000,
+      "asOfDate": "2026-06-30",
+      "equity": 50251000000,
+      "annualNetIncome": 10719766000,
+      "profitableQuarters": 4
+    },
+    "TTKOM": {
+      "paidCapital": 3500000000,
+      "equity": 265254669000,
+      "annualNetIncome": 30585373150,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30"
+    },
+    "TTRAK": {
+      "paidCapital": 100066875,
+      "asOfDate": "2026-06-30",
+      "equity": 18976413610,
+      "profitableQuarters": 2,
+      "annualNetIncome": -911666439
+    },
+    "TUCLK": {
+      "paidCapital": 360000000,
+      "asOfDate": "2026-06-30",
+      "equity": 4006181920,
+      "profitableQuarters": 2,
+      "annualNetIncome": -272463324
+    },
+    "TUKAS": {
+      "paidCapital": 4500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 20072041944,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1310862271
+    },
+    "TUPRS": {
+      "paidCapital": 1926796000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 456139125000,
+      "annualNetIncome": 38348767942
+    },
+    "TUREX": {
+      "paidCapital": 1080000000,
+      "asOfDate": "2026-06-30",
+      "equity": 8961320000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 943189612
+    },
+    "TURGG": {
+      "paidCapital": 128172525,
+      "asOfDate": "2026-06-30",
+      "equity": 2675111847,
+      "profitableQuarters": 3,
+      "annualNetIncome": 286520206
+    },
+    "TURSG": {
+      "paidCapital": 20000000000,
+      "asOfDate": "2026-06-30"
+    },
+    "UFUK": {
+      "paidCapital": 46846881,
+      "asOfDate": "2026-06-30",
+      "equity": 2868751150,
+      "profitableQuarters": 1,
+      "annualNetIncome": 50726792
+    },
+    "ULAS": {
+      "paidCapital": 25382175,
+      "asOfDate": "2026-06-30",
+      "equity": 556080156,
+      "profitableQuarters": 1,
+      "annualNetIncome": 3484370
+    },
+    "ULKER": {
+      "paidCapital": 369276000,
+      "asOfDate": "2026-06-30",
+      "equity": 51021517000,
+      "profitableQuarters": 4,
+      "annualNetIncome": 5665651762
+    },
+    "ULUSE": {
+      "paidCapital": 80000000,
+      "asOfDate": "2026-06-30",
+      "equity": 983446624,
+      "profitableQuarters": 3,
+      "annualNetIncome": 845004703
+    },
+    "ULUUN": {
+      "paidCapital": 750000000,
+      "asOfDate": "2026-06-30",
+      "equity": 16689145636,
+      "profitableQuarters": 4,
+      "annualNetIncome": 481977833
+    },
+    "UMPAS": {
+      "paidCapital": 39835110,
+      "asOfDate": "2023-12-31",
+      "equity": 813453855,
+      "profitableQuarters": 1,
+      "annualNetIncome": -1015001
+    },
+    "UNLU": {
+      "paidCapital": 175740000,
+      "asOfDate": "2026-06-30",
+      "equity": 3008312158,
+      "profitableQuarters": 1,
+      "annualNetIncome": -323833391
+    },
+    "USAK": {
+      "paidCapital": 2450000000,
+      "asOfDate": "2026-06-30",
+      "equity": 6566989437,
+      "profitableQuarters": 1,
+      "annualNetIncome": -745332904
+    },
+    "VAKBN": {
+      "paidCapital": 9916000000,
+      "equity": 353008000000,
+      "annualNetIncome": 70095184000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30"
+    },
+    "VAKFN": {
+      "paidCapital": 5000000000,
+      "asOfDate": "2025-09-16",
+      "equity": 7859832000,
+      "annualNetIncome": 1939901000,
+      "profitableQuarters": 3
+    },
+    "VAKKO": {
+      "paidCapital": 160000000,
+      "asOfDate": "2026-06-30",
+      "equity": 10233547085,
+      "profitableQuarters": 1,
+      "annualNetIncome": -261990376
+    },
+    "VANGD": {
+      "paidCapital": 25000000,
+      "asOfDate": "2026-06-30",
+      "equity": 558174451,
+      "profitableQuarters": 3,
+      "annualNetIncome": 272034957
+    },
+    "VBTYZ": {
+      "paidCapital": 117000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1165596243,
+      "profitableQuarters": 3,
+      "annualNetIncome": 17520098
+    },
+    "VERTU": {
+      "paidCapital": 52000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5260342741,
+      "profitableQuarters": 2,
+      "annualNetIncome": -406120102
+    },
+    "VERUS": {
+      "paidCapital": 70000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5371393818,
+      "profitableQuarters": 2,
+      "annualNetIncome": -1050171619
+    },
+    "VESBE": {
+      "paidCapital": 1600000000,
+      "asOfDate": "2026-06-30",
+      "equity": 41291540000,
+      "profitableQuarters": 1,
+      "annualNetIncome": -5931693495
+    },
+    "VESTL": {
+      "paidCapital": 335456000,
+      "asOfDate": "2026-06-30",
+      "equity": 21893625000,
+      "profitableQuarters": 0,
+      "annualNetIncome": -27993480297
+    },
+    "VKFYO": {
+      "paidCapital": 30000000,
+      "asOfDate": "2026-06-30",
+      "equity": 52019531,
+      "profitableQuarters": 0,
+      "annualNetIncome": -19593840
+    },
+    "VKGYO": {
+      "paidCapital": 3450000000,
+      "asOfDate": "2026-06-30",
+      "equity": 28897570719,
+      "profitableQuarters": 3,
+      "annualNetIncome": 502765565
+    },
+    "VKING": {
+      "paidCapital": 42000000,
+      "asOfDate": "2026-06-30",
+      "equity": 70810818,
+      "profitableQuarters": 0,
+      "annualNetIncome": -1076768157
+    },
+    "YAPRK": {
+      "paidCapital": 298200000,
+      "asOfDate": "2026-06-30",
+      "equity": 842842350,
+      "profitableQuarters": 2,
+      "annualNetIncome": 30028629
+    },
+    "YATAS": {
+      "paidCapital": 149798932,
+      "asOfDate": "2026-06-30",
+      "equity": 13147185096,
+      "profitableQuarters": 2,
+      "annualNetIncome": 205376760
+    },
+    "YAYLA": {
+      "paidCapital": 49875000,
+      "asOfDate": "2026-06-30",
+      "equity": 951584172,
+      "profitableQuarters": 0,
+      "annualNetIncome": -35971450
+    },
+    "YBTAS": {
+      "paidCapital": 300000000,
+      "asOfDate": "2026-06-30",
+      "equity": 2036584782,
+      "profitableQuarters": 2,
+      "annualNetIncome": 29155728
+    },
+    "YEOTK": {
+      "paidCapital": 355000000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30",
+      "equity": 5505885818,
+      "annualNetIncome": 2524205283
+    },
+    "YESIL": {
+      "paidCapital": 645000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1417451076,
+      "profitableQuarters": 1,
+      "annualNetIncome": -131858698
+    },
+    "YGGYO": {
+      "paidCapital": 241920000,
+      "asOfDate": "2026-06-30",
+      "equity": 28109740451,
+      "profitableQuarters": 3,
+      "annualNetIncome": 1078631838
+    },
+    "YGYO": {
+      "paidCapital": 1316084515,
+      "asOfDate": "2025-09-30",
+      "equity": 15233933163,
+      "profitableQuarters": 0,
+      "annualNetIncome": -6286752614
+    },
+    "YKBNK": {
+      "paidCapital": 8447000000,
+      "equity": 286488000000,
+      "annualNetIncome": 55352137000,
+      "profitableQuarters": 4,
+      "asOfDate": "2026-06-30"
+    },
+    "YKSLN": {
+      "paidCapital": 500000000,
+      "asOfDate": "2026-06-30",
+      "equity": 1007084055,
+      "profitableQuarters": 1,
+      "annualNetIncome": -43593352
+    },
+    "YONGA": {
+      "paidCapital": 16800000,
+      "asOfDate": "2026-06-30",
+      "equity": 634464676,
+      "profitableQuarters": 1,
+      "annualNetIncome": -109702453
+    },
+    "YUNSA": {
+      "paidCapital": 480000000,
+      "asOfDate": "2026-06-30",
+      "equity": 5182261526,
+      "profitableQuarters": 4,
+      "annualNetIncome": 434480194
+    },
+    "YYAPI": {
+      "paidCapital": 1705025558,
+      "asOfDate": "2026-06-30",
+      "equity": 5935540513,
+      "profitableQuarters": 1,
+      "annualNetIncome": -381164634
+    },
+    "YYLGD": {
+      "paidCapital": 1086980000,
+      "asOfDate": "2026-06-30",
+      "equity": 18118117733,
+      "profitableQuarters": 3,
+      "annualNetIncome": 2354175065
+    },
+    "ZEDUR": {
+      "paidCapital": 174750000,
+      "asOfDate": "2026-06-30",
+      "equity": 2610604759,
+      "profitableQuarters": 0,
+      "annualNetIncome": -71509672
+    },
+    "ZOREN": {
+      "paidCapital": 5000000000,
+      "asOfDate": "2026-06-30",
+      "equity": 63383079000,
+      "profitableQuarters": 1,
+      "annualNetIncome": -12306987031
+    },
+    "ZRGYO": {
+      "paidCapital": 4693620000,
+      "asOfDate": "2026-06-30",
+      "equity": 93732761528,
+      "profitableQuarters": 3,
+      "annualNetIncome": 3442216603
+    }
+  }
+}
