@@ -1,7 +1,7 @@
 {
-  "version": 21,
-  "updatedAt": "2026-08-27T19:08:05Z",
-  "source": "kap-paid-capital+manual-overrides+v21",
+  "version": 22,
+  "updatedAt": "2026-08-27T19:16:12Z",
+  "source": "kap-paid-capital+manual-overrides",
   "tickers": {
     "A1CAP": {
       "paidCapital": 675000000,
@@ -1659,7 +1659,7 @@
       "paidCapital": 397500000,
       "asOfDate": "2026-06-30",
       "equity": 6758504000,
-      "annualNetIncome": 3585259000,
+      "annualNetIncome": 2623070403,
       "profitableQuarters": 4
     },
     "GEDIK": {
