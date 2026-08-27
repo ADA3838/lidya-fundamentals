@@ -1,10 +1,10 @@
 {
-  "version": 22,
-  "updatedAt": "2026-08-27T19:16:12Z",
+  "version": 23,
+  "updatedAt": "2026-08-27T19:23:23Z",
   "forceRefresh": true,
   "snapshotUrls": [
+    "https://firebasestorage.googleapis.com/v0/b/lanning-liwith-ai.firebasestorage.app/o/fundamentals%2Ffundamentals-v23.json?alt=media",
     "https://firebasestorage.googleapis.com/v0/b/lanning-liwith-ai.firebasestorage.app/o/fundamentals%2Ffundamentals-v22.json?alt=media",
-    "https://firebasestorage.googleapis.com/v0/b/lanning-liwith-ai.firebasestorage.app/o/fundamentals%2Ffundamentals-v21.json?alt=media",
     "https://ada3838.github.io/lidya-fundamentals/fundamentals.json"
   ]
 }
