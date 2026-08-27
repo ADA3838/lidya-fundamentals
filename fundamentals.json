@@ -1,7 +1,7 @@
 {
-  "version": 20,
-  "updatedAt": "2026-08-27T18:54:59Z",
-  "source": "kap-paid-capital+manual-overrides+orge-fix",
+  "version": 21,
+  "updatedAt": "2026-08-27T19:08:05Z",
+  "source": "kap-paid-capital+manual-overrides+v21",
   "tickers": {
     "A1CAP": {
       "paidCapital": 675000000,
@@ -1125,8 +1125,8 @@
       "revenueGrowth": -0.262
     },
     "DERHL": {
-      "paidCapital": 197281323,
-      "asOfDate": "2026-06-30",
+      "paidCapital": 989179083,
+      "asOfDate": "2026-08-12",
       "equity": 1992519942,
       "profitableQuarters": 3,
       "annualNetIncome": -5673725,
@@ -1240,8 +1240,8 @@
       "revenueGrowth": -0.1957
     },
     "DNISI": {
-      "paidCapital": 119728125,
-      "asOfDate": "2026-06-30",
+      "paidCapital": 520000000,
+      "asOfDate": "2026-08-21",
       "equity": 1604412209,
       "profitableQuarters": 1,
       "annualNetIncome": 52337861,
@@ -2371,8 +2371,8 @@
       "annualNetIncome": 357879231
     },
     "KRTEK": {
-      "paidCapital": 35100498,
-      "asOfDate": "2026-06-30",
+      "paidCapital": 137984613,
+      "asOfDate": "2026-08-21",
       "equity": 1897977025,
       "profitableQuarters": 1,
       "annualNetIncome": -75561469
@@ -3604,8 +3604,8 @@
       "asOfDate": "2026-06-30"
     },
     "VAKFN": {
-      "paidCapital": 5000000000,
-      "asOfDate": "2025-09-16",
+      "paidCapital": 6000000000,
+      "asOfDate": "2026-08-05",
       "equity": 7859832000,
       "annualNetIncome": 1939901000,
       "profitableQuarters": 3
@@ -3667,8 +3667,8 @@
       "annualNetIncome": -19593840
     },
     "VKGYO": {
-      "paidCapital": 3450000000,
-      "asOfDate": "2026-06-30",
+      "paidCapital": 4400000000,
+      "asOfDate": "2026-08-12",
       "equity": 28897570719,
       "profitableQuarters": 3,
       "annualNetIncome": 502765565
