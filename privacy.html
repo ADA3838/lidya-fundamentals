@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lidya — Gizlilik Politikası</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #0a1729;
+      --card: #14263d;
+      --text: #eef2f7;
+      --muted: #9fb0c5;
+      --gold: #d4b038;
+      --border: rgba(255, 255, 255, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+    }
+    main {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 3rem;
+    }
+    h1 {
+      font-size: 1.85rem;
+      margin: 0 0 0.35rem;
+      color: var(--gold);
+    }
+    .updated { color: var(--muted); font-size: 0.95rem; margin-bottom: 2rem; }
+    h2 {
+      font-size: 1.1rem;
+      margin: 2rem 0 0.75rem;
+      color: var(--gold);
+    }
+    p, li { color: var(--text); }
+    .muted { color: var(--muted); }
+    ul { padding-left: 1.25rem; }
+    a { color: var(--gold); }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1rem 1.15rem;
+      margin: 1rem 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+      margin: 0.75rem 0;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 0.55rem 0.65rem;
+      text-align: left;
+      vertical-align: top;
+    }
+    th { color: var(--gold); background: rgba(255,255,255,0.03); }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Lidya Gizlilik Politikası</h1>
+    <p class="updated">Son güncelleme: 3 Ekim 2026</p>
+
+    <p>
+      Bu gizlilik politikası, <strong>Lidya Borsa Asistanı</strong> mobil uygulamasının
+      (<em>“Lidya”</em>) iOS ve Android sürümlerinde kişisel verilerin nasıl işlendiğini açıklar.
+      Lidya, Borsa İstanbul (BIST) hisse senetlerine ilişkin bilgilendirme ve skorlama sunan bir
+      uygulamadır; yatırım tavsiyesi değildir.
+    </p>
+
+    <h2>1. Veri sorumlusu</h2>
+    <p>
+      Uygulama geliştiricisi: <strong>İsa ada</strong><br>
+      İletişim: <a href="mailto:isaada1905@gmail.com">isaada1905@gmail.com</a>
+    </p>
+
+    <h2>2. Topladığımız veriler</h2>
+    <p>
+      Hesap özelliklerini kullandığınızda kimlik doğrulama bilgileri Firebase Authentication ile işlenir; kullanıcı kimliği, görünen ad, giriş sağlayıcısı, platform ve güncelleme zamanı Firebase Firestore üzerinde saklanabilir.
+      Aşağıdaki bilgiler <strong>esas olarak cihazınızda</strong> saklanır:
+    </p>
+    <div class="card">
+      <table>
+        <thead>
+          <tr>
+            <th>Veri türü</th>
+            <th>Amaç</th>
+            <th>Saklama</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Hesap bilgisi (kullanıcı adı, oturum, misafir modu)</td>
+            <td>Giriş ve hesap yönetimi</td>
+            <td>Cihaz + Firebase</td>
+          </tr>
+          <tr>
+            <td>Apple / Google ile giriş (varsa ad, e-posta)</td>
+            <td>Kimlik doğrulama</td>
+            <td>Cihaz + Firebase + ilgili platform</td>
+          </tr>
+          <tr>
+            <td>Portföy tercihleri ve uygulama ayarları</td>
+            <td>Uygulama işlevselliği</td>
+            <td>Cihaz</td>
+          </tr>
+          <tr>
+            <td>PIN / parola kilidi</td>
+            <td>Güvenlik (Premium)</td>
+            <td>Cihaz (şifreli depolama)</td>
+          </tr>
+          <tr>
+            <td>Piyasa verisi önbelleği</td>
+            <td>Performans ve çevrimdışı erişim</td>
+            <td>Cihaz</td>
+          </tr>
+          <tr>
+            <td>Premium / deneme durumu</td>
+            <td>Abonelik erişimi</td>
+            <td>Cihaz + App Store / Google Play</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2>3. Toplamadığımız veriler</h2>
+    <ul>
+      <li>Reklam veya davranışsal izleme (tracking) yapmıyoruz.</li>
+      <li>Konum, rehber, fotoğraf, mikrofon veya kamera verisi toplamıyoruz.</li>
+      <li>Portföy tercihleri ve uygulama ayarları cihazda saklanır.</li>
+    </ul>
+
+    <h2>4. Üçüncü taraf hizmetler</h2>
+    <p>Uygulama, piyasa bilgisi almak için aşağıdaki kaynaklara bağlanabilir:</p>
+    <ul>
+      <li><strong>Google Firebase</strong> — hesap hizmetleri ve piyasa verisi API altyapısı</li>
+      <li><strong>İş Yatırım</strong> — gecikmeli piyasa verileri</li>
+      <li><strong>Yahoo Finance</strong> — fiyat ve piyasa verileri</li>
+      <li><strong>KAP / temel veri snapshot</strong> — şirket temel verileri</li>
+      <li><strong>Haber akışları (RSS)</strong> — piyasa haberleri</li>
+    </ul>
+    <p class="muted">
+      Piyasa veri taleplerinde hisse kodu ve genel piyasa sorguları gönderilir. Ağ hizmetleri bağlantı sırasında IP adresi ve teknik istek bilgilerini işleyebilir. Hesap hizmetlerinde yukarıda açıklanan kimlik doğrulama ve profil bilgileri işlenir. Üçüncü taraf sitelerin kendi gizlilik politikaları geçerlidir.
+    </p>
+
+    <h2>5. Abonelik ve ödeme</h2>
+    <p>
+      Premium abonelikler <strong>Apple App Store</strong> veya <strong>Google Play</strong> üzerinden
+      işlenir. Ödeme bilgileriniz (kart numarası vb.) uygulama geliştiricisine iletilmez; yalnızca
+      ilgili mağaza tarafından işlenir.
+    </p>
+
+
+    <h2>6. Bildirimler</h2>
+    <p>
+      İzin verirseniz, portföy taraması ve sabah özeti gibi yerel bildirimler gönderebiliriz.
+      Bildirim iznini cihaz ayarlarından kapatabilirsiniz.
+    </p>
+
+    <h2>7. İzinler (Android)</h2>
+    <ul>
+      <li><strong>İnternet</strong> — piyasa verisi çekmek için</li>
+      <li><strong>Bildirimler</strong> — isteğe bağlı hatırlatmalar</li>
+      <li><strong>Alarm / arka plan görevleri</strong> — planlanmış tarama bildirimleri</li>
+    </ul>
+
+    <h2>8. Veri saklama ve silme</h2>
+    <p>
+      Yerel ayarlar ve önbellek uygulama kaldırıldığında silinir. iOS deneme başlangıcı,
+      yeniden kurulumda denemenin sıfırlanmasını önlemek için Anahtar Zinciri'nde tutulur ve
+      uygulama silindikten sonra aynı cihazda kalabilir. Uygulamayı silmek sunucudaki hesabı
+      veya mağaza aboneliğini otomatik olarak silmez. Hesap silme için uygulamadaki hesap
+      silme seçeneğini veya aşağıdaki iletişim adresini kullanabilirsiniz. Sunucuda kalan
+      profil verileri için de silme talebinizi bu adrese iletebilirsiniz.
+    </p>
+
+    <h2>9. Çocukların gizliliği</h2>
+    <p>
+      Lidya, 13 yaşın altındaki çocuklara yönelik değildir ve bilerek çocuklardan veri toplamaz.
+    </p>
+
+    <h2>10. Güvenlik</h2>
+    <p>
+      Ağ iletişimi HTTPS/TLS ile şifrelenir. Hassas veriler cihazın güvenli depolama
+      mekanizmalarında tutulmaya çalışılır; ancak hiçbir yöntem %100 güvenlik garantisi vermez.
+    </p>
+
+    <h2>11. Politika değişiklikleri</h2>
+    <p>
+      Bu metni zaman zaman güncelleyebiliriz. Önemli değişikliklerde güncelleme tarihi
+      revize edilir. Güncel sürüm her zaman bu sayfada yayımlanır.
+    </p>
+
+    <h2>12. İletişim</h2>
+    <p>
+      Gizlilik ile ilgili sorularınız için:
+      <a href="mailto:isaada1905@gmail.com">isaada1905@gmail.com</a>
+    </p>
+
+    <h2>13. Hesap ve veri silme</h2>
+    <p>
+      Hesabınızı ve cihazdaki verilerinizi nasıl silebileceğiniz:
+      <a href="account-deletion.html">Hesap ve Veri Silme</a>
+    </p>
+
+    <p class="muted">
+      Uygulama paketleri: iOS <code>com.isaada.lidya.bist</code>, Android <code>com.lidyalilar.borsa</code>
+    </p>
+  </main>
+</body>
+</html>
